@@ -1,0 +1,1430 @@
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "label": "DNA",
+      "category": "general",
+      "frequency": 90,
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "size": 28
+    },
+    {
+      "id": "n1",
+      "label": "RNA",
+      "category": "general",
+      "frequency": 46,
+      "pages": [
+        1,
+        2,
+        3,
+        5,
+        7
+      ],
+      "size": 28
+    },
+    {
+      "id": "n2",
+      "label": "Reprint",
+      "category": "general",
+      "frequency": 32,
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "size": 28
+    },
+    {
+      "id": "n3",
+      "label": "There",
+      "category": "general",
+      "frequency": 16,
+      "pages": [
+        2,
+        5,
+        10,
+        12,
+        14
+      ],
+      "size": 28
+    },
+    {
+      "id": "n4",
+      "label": "They",
+      "category": "general",
+      "frequency": 10,
+      "pages": [
+        3,
+        7,
+        11,
+        21,
+        22
+      ],
+      "size": 28
+    },
+    {
+      "id": "n5",
+      "label": "Hence",
+      "category": "general",
+      "frequency": 9,
+      "pages": [
+        13,
+        15,
+        17,
+        22,
+        23
+      ],
+      "size": 26
+    },
+    {
+      "id": "n6",
+      "label": "BASIS OF INHERITANCE",
+      "category": "general",
+      "frequency": 9,
+      "pages": [
+        3,
+        7,
+        9,
+        13,
+        15
+      ],
+      "size": 26
+    },
+    {
+      "id": "n7",
+      "label": "However",
+      "category": "general",
+      "frequency": 8,
+      "pages": [
+        3,
+        7,
+        8,
+        13,
+        15
+      ],
+      "size": 24
+    },
+    {
+      "id": "n8",
+      "label": "One",
+      "category": "general",
+      "frequency": 7,
+      "pages": [
+        3,
+        25,
+        26,
+        30
+      ],
+      "size": 22
+    },
+    {
+      "id": "n9",
+      "label": "Therefore",
+      "category": "general",
+      "frequency": 7,
+      "pages": [
+        9,
+        10,
+        20,
+        22,
+        25
+      ],
+      "size": 22
+    },
+    {
+      "id": "n10",
+      "label": "The DNA",
+      "category": "general",
+      "frequency": 7,
+      "pages": [
+        1,
+        5,
+        12,
+        15,
+        30
+      ],
+      "size": 22
+    },
+    {
+      "id": "n11",
+      "label": "Consequently",
+      "category": "general",
+      "frequency": 7,
+      "pages": [
+        4,
+        9,
+        12,
+        16,
+        28
+      ],
+      "size": 22
+    },
+    {
+      "id": "n12",
+      "label": "Further",
+      "category": "general",
+      "frequency": 6,
+      "pages": [
+        9,
+        13,
+        24,
+        27
+      ],
+      "size": 20
+    },
+    {
+      "id": "n13",
+      "label": "Thymine",
+      "category": "general",
+      "frequency": 6,
+      "pages": [
+        2,
+        3,
+        30,
+        31
+      ],
+      "size": 20
+    },
+    {
+      "id": "n14",
+      "label": "Cytosine",
+      "category": "general",
+      "frequency": 6,
+      "pages": [
+        2,
+        3,
+        30,
+        31
+      ],
+      "size": 20
+    },
+    {
+      "id": "n15",
+      "label": "Transcription",
+      "category": "general",
+      "frequency": 5,
+      "pages": [
+        1,
+        15,
+        16,
+        31
+      ],
+      "size": 18
+    },
+    {
+      "id": "n16",
+      "label": "Remember",
+      "category": "general",
+      "frequency": 5,
+      "pages": [
+        13,
+        23,
+        25
+      ],
+      "size": 18
+    },
+    {
+      "id": "n17",
+      "label": "Guanine",
+      "category": "general",
+      "frequency": 5,
+      "pages": [
+        2,
+        3,
+        30
+      ],
+      "size": 18
+    },
+    {
+      "id": "n18",
+      "label": "Adenine",
+      "category": "general",
+      "frequency": 5,
+      "pages": [
+        2,
+        3,
+        30,
+        31
+      ],
+      "size": 18
+    },
+    {
+      "id": "n19",
+      "label": "Crick",
+      "category": "general",
+      "frequency": 5,
+      "pages": [
+        10,
+        31
+      ],
+      "size": 18
+    },
+    {
+      "id": "n20",
+      "label": "HGP",
+      "category": "general",
+      "frequency": 4,
+      "pages": [
+        24
+      ],
+      "size": 16
+    },
+    {
+      "id": "n21",
+      "label": "AUG",
+      "category": "general",
+      "frequency": 4,
+      "pages": [
+        18,
+        21
+      ],
+      "size": 16
+    },
+    {
+      "id": "n22",
+      "label": "Similarly",
+      "category": "general",
+      "frequency": 4,
+      "pages": [
+        3,
+        7,
+        19
+      ],
+      "size": 16
+    },
+    {
+      "id": "n23",
+      "label": "During",
+      "category": "general",
+      "frequency": 4,
+      "pages": [
+        6,
+        21,
+        24,
+        30
+      ],
+      "size": 16
+    },
+    {
+      "id": "n24",
+      "label": "Translation",
+      "category": "general",
+      "frequency": 4,
+      "pages": [
+        1,
+        30,
+        31
+      ],
+      "size": 16
+    },
+    {
+      "id": "n25",
+      "label": "The RNA",
+      "category": "general",
+      "frequency": 4,
+      "pages": [
+        16,
+        17
+      ],
+      "size": 16
+    },
+    {
+      "id": "n26",
+      "label": "VNTR",
+      "category": "general",
+      "frequency": 4,
+      "pages": [
+        28,
+        29
+      ],
+      "size": 16
+    },
+    {
+      "id": "n27",
+      "label": "Watson",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        10
+      ],
+      "size": 14
+    },
+    {
+      "id": "n28",
+      "label": "BASIS OF INHERITANCE\nFigure",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        5,
+        11,
+        29
+      ],
+      "size": 14
+    },
+    {
+      "id": "n29",
+      "label": "Promoter",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        13,
+        31
+      ],
+      "size": 14
+    },
+    {
+      "id": "n30",
+      "label": "Introns",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        15,
+        30
+      ],
+      "size": 14
+    },
+    {
+      "id": "n31",
+      "label": "Hershey",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        7,
+        8,
+        31
+      ],
+      "size": 14
+    },
+    {
+      "id": "n32",
+      "label": "Exons",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        15,
+        31
+      ],
+      "size": 14
+    },
+    {
+      "id": "n33",
+      "label": "Regulation",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        1,
+        23,
+        30
+      ],
+      "size": 14
+    },
+    {
+      "id": "n34",
+      "label": "Many",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        25,
+        30
+      ],
+      "size": 14
+    },
+    {
+      "id": "n35",
+      "label": "ATP",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        12,
+        20
+      ],
+      "size": 14
+    },
+    {
+      "id": "n36",
+      "label": "RNAs",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        15,
+        17,
+        21
+      ],
+      "size": 14
+    },
+    {
+      "id": "n37",
+      "label": "Francis Crick",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        3,
+        4
+      ],
+      "size": 14
+    },
+    {
+      "id": "n38",
+      "label": "Griffith",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        6,
+        7,
+        9
+      ],
+      "size": 14
+    },
+    {
+      "id": "n39",
+      "label": "Polymorphism",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        27,
+        31
+      ],
+      "size": 14
+    },
+    {
+      "id": "n40",
+      "label": "Chase",
+      "category": "general",
+      "frequency": 3,
+      "pages": [
+        7,
+        8,
+        31
+      ],
+      "size": 14
+    },
+    {
+      "id": "n41",
+      "label": "Satellite DNA",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        31
+      ],
+      "size": 12
+    },
+    {
+      "id": "n42",
+      "label": "Goals",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        24
+      ],
+      "size": 12
+    },
+    {
+      "id": "n43",
+      "label": "Biochemical Characterisation",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        7
+      ],
+      "size": 12
+    },
+    {
+      "id": "n44",
+      "label": "RAM  HAS  EDC  AP\nRAM  HAS  DCA",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        19
+      ],
+      "size": 12
+    },
+    {
+      "id": "n45",
+      "label": "Bioinformatics",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        24
+      ],
+      "size": 12
+    },
+    {
+      "id": "n46",
+      "label": "Alfred Hershey",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        7
+      ],
+      "size": 12
+    },
+    {
+      "id": "n47",
+      "label": "Methodologies",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        25
+      ],
+      "size": 12
+    },
+    {
+      "id": "n48",
+      "label": "Strangely",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        14
+      ],
+      "size": 12
+    },
+    {
+      "id": "n49",
+      "label": "Human",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        24,
+        30
+      ],
+      "size": 12
+    },
+    {
+      "id": "n50",
+      "label": "Human Genome Project",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        1,
+        24
+      ],
+      "size": 12
+    },
+    {
+      "id": "n51",
+      "label": "Double",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        3,
+        4
+      ],
+      "size": 12
+    },
+    {
+      "id": "n52",
+      "label": "TerminatorFigure",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        13
+      ],
+      "size": 12
+    },
+    {
+      "id": "n53",
+      "label": "Process",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        15,
+        16
+      ],
+      "size": 12
+    },
+    {
+      "id": "n54",
+      "label": "Formation",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        20
+      ],
+      "size": 12
+    },
+    {
+      "id": "n55",
+      "label": "Martha Chase",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        7
+      ],
+      "size": 12
+    },
+    {
+      "id": "n56",
+      "label": "Please",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        11
+      ],
+      "size": 12
+    },
+    {
+      "id": "n57",
+      "label": "Depending",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        27,
+        31
+      ],
+      "size": 12
+    },
+    {
+      "id": "n58",
+      "label": "List",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        31
+      ],
+      "size": 12
+    },
+    {
+      "id": "n59",
+      "label": "Since",
+      "category": "general",
+      "frequency": 2,
+      "pages": [
+        14,
+        30
+      ],
+      "size": 12
+    }
+  ],
+  "links": [
+    {
+      "source": "n0",
+      "target": "n1",
+      "weight": 31,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n2",
+      "weight": 14,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n3",
+      "weight": 10,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n4",
+      "weight": 8,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n10",
+      "weight": 7,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n3",
+      "weight": 7,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n14",
+      "target": "n13",
+      "weight": 6,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n7",
+      "weight": 6,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n11",
+      "target": "n0",
+      "weight": 6,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n12",
+      "weight": 6,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n14",
+      "target": "n0",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n13",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n18",
+      "target": "n14",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n18",
+      "target": "n13",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n14",
+      "target": "n17",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n17",
+      "target": "n13",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n7",
+      "target": "n1",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n8",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n6",
+      "target": "n0",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n19",
+      "target": "n0",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n5",
+      "target": "n1",
+      "weight": 5,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n2",
+      "weight": 4,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n18",
+      "target": "n0",
+      "weight": 4,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n17",
+      "weight": 4,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n18",
+      "target": "n17",
+      "weight": 4,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n6",
+      "target": "n1",
+      "weight": 4,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n25",
+      "weight": 4,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n20",
+      "weight": 4,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n26",
+      "weight": 4,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n15",
+      "target": "n24",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n14",
+      "target": "n1",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n13",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n17",
+      "target": "n1",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n37",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n8",
+      "target": "n1",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n28",
+      "target": "n0",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n4",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n31",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n40",
+      "target": "n31",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n40",
+      "target": "n0",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n9",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n27",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n19",
+      "target": "n27",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n5",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n32",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n30",
+      "target": "n1",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n23",
+      "weight": 3,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n33",
+      "target": "n24",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n24",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n50",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n15",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n18",
+      "target": "n1",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n7",
+      "target": "n8",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n18",
+      "target": "n7",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n14",
+      "target": "n7",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n7",
+      "target": "n13",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n17",
+      "target": "n7",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n51",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n10",
+      "target": "n3",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n6",
+      "target": "n7",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n38",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n55",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n46",
+      "target": "n55",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n55",
+      "target": "n4",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n46",
+      "target": "n0",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n46",
+      "target": "n4",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n7",
+      "target": "n2",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n31",
+      "target": "n1",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n40",
+      "target": "n1",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n9",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n11",
+      "target": "n2",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n11",
+      "target": "n1",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n19",
+      "target": "n1",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n56",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n35",
+      "target": "n0",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n11",
+      "target": "n10",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n11",
+      "target": "n3",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n2",
+      "target": "n3",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n5",
+      "target": "n16",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n16",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n16",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n29",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n29",
+      "target": "n52",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n48",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n48",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n59",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n10",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n32",
+      "target": "n1",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n30",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n36",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n36",
+      "target": "n3",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n1",
+      "target": "n15",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n53",
+      "target": "n15",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n53",
+      "target": "n1",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n6",
+      "target": "n36",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n54",
+      "target": "n9",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n21",
+      "target": "n4",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n12",
+      "target": "n20",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n42",
+      "target": "n20",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n45",
+      "target": "n20",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n42",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n45",
+      "target": "n0",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n45",
+      "target": "n42",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n47",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n47",
+      "target": "n8",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n34",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n57",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n39",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n11",
+      "target": "n26",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n2",
+      "target": "n26",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n41",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n58",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n58",
+      "target": "n41",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n39",
+      "target": "n24",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n39",
+      "target": "n15",
+      "weight": 2,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n10",
+      "target": "n24",
+      "weight": 1,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n50",
+      "target": "n24",
+      "weight": 1,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n0",
+      "target": "n33",
+      "weight": 1,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n33",
+      "target": "n10",
+      "weight": 1,
+      "relation": "co-occurs with"
+    },
+    {
+      "source": "n50",
+      "target": "n33",
+      "weight": 1,
+      "relation": "co-occurs with"
+    }
+  ],
+  "entity_count": 60,
+  "link_count": 120
+}

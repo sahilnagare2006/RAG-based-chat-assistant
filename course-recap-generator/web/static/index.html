@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Course Recap Generator — AI Agent Harness Dashboard</title>
+  <meta name="description" content="AI Coding Techniques: Transform course slide decks into structured study guides and visual Mermaid diagrams using the OpenCode Agent Harness, MCP server, and sub-agents.">
+  <link rel="stylesheet" href="styles.css">
+  <!-- Mermaid.js for visual diagram rendering -->
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- Top Navigation Header -->
+    <header class="header" id="app-header">
+      <div class="brand">
+        <div class="brand-icon">⚡</div>
+        <div class="brand-text">
+          <h1>Course Recap Generator</h1>
+          <p>AI Coding Techniques · OpenCode Agent Harness</p>
+        </div>
+      </div>
+      
+      <div class="status-badges" id="status-badges">
+        <div class="status-pill" id="badge-harness" title="OpenCode CLI Harness Status">
+          <span class="status-dot active"></span>
+          <span>OpenCode v2.0.20</span>
+        </div>
+        <div class="status-pill" id="badge-mcp" title="Model Context Protocol Server">
+          <span class="status-dot active"></span>
+          <span>pdf-slides-mcp</span>
+        </div>
+        <div class="status-pill" id="badge-subagent" title="Harness Sub-Agent">
+          <span class="status-dot active"></span>
+          <span>@recap-reviewer</span>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <!-- Hero Intro -->
+      <section class="hero-section" id="hero-section">
+        <span class="hero-tag">Day 6 Assignment · Single Clean Pass</span>
+        <h2 class="hero-title">Synthesize Course Slides into <span>Visual Architecture</span></h2>
+        <p class="hero-desc">Reaching outside the harness via MCP to parse lecture PDFs, apply custom concept skills, and audit with specialized sub-agents.</p>
+      </section>
+
+      <!-- Input & File Selection Section -->
+      <section class="input-card" id="input-card">
+        <div class="dropzone" id="pdf-dropzone">
+          <input type="file" id="pdf-file-input" class="file-input" accept=".pdf">
+          <div class="dropzone-icon">📁</div>
+          <div class="dropzone-text">
+            <h3>Drag & Drop Course Slide Deck (PDF)</h3>
+            <p>or click to browse from your computer</p>
+          </div>
+        </div>
+
+        <div class="samples-divider">
+          <span>OR SELECT A PRE-LOADED COURSE DECK</span>
+        </div>
+
+        <div class="samples-grid" id="samples-container">
+          <!-- Dynamically populated or default sample cards -->
+          <div class="sample-card" id="sample-day6-btn" onclick="loadSample('day6')">
+            <div class="sample-info">
+              <h4>Day 6: AI Coding Techniques Slides</h4>
+              <p>Planning mode, MCP integration, Sub-agents, and Custom skills</p>
+            </div>
+            <span class="sample-badge">6 Slides</span>
+          </div>
+
+          <div class="sample-card" id="sample-opencode-btn" onclick="loadSample('opencode_guide')">
+            <div class="sample-info">
+              <h4>OpenCode Windows Student Setup Guide</h4>
+              <p>Interactive CLI setup, OpenRouter auth, and model selection</p>
+            </div>
+            <span class="sample-badge">3 Slides</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Agent Pipeline Stepper Animation -->
+      <section class="pipeline-section" id="pipeline-section">
+        <div class="pipeline-header">
+          <h3><span>⚡</span> Agent Harness Execution Pipeline</h3>
+          <span class="status-pill" id="pipeline-status">Processing single clean pass...</span>
+        </div>
+
+        <div class="pipeline-steps">
+          <div class="step-card" id="step-mcp">
+            <div class="step-indicator">✓</div>
+            <div class="step-icon">🔌</div>
+            <div class="step-title">1. MCP Extraction</div>
+            <div class="step-desc" id="step-mcp-desc">pdf-slides-mcp extracting slides</div>
+          </div>
+
+          <div class="step-card" id="step-skill">
+            <div class="step-indicator">✓</div>
+            <div class="step-icon">🧠</div>
+            <div class="step-title">2. Custom Skill</div>
+            <div class="step-desc" id="step-skill-desc">course-recap distilling concepts</div>
+          </div>
+
+          <div class="step-card" id="step-subagent">
+            <div class="step-indicator">✓</div>
+            <div class="step-icon">🛡️</div>
+            <div class="step-title">3. Sub-Agent Audit</div>
+            <div class="step-desc" id="step-subagent-desc">@recap-reviewer checking fidelity</div>
+          </div>
+
+          <div class="step-card" id="step-output">
+            <div class="step-indicator">✓</div>
+            <div class="step-icon">📝</div>
+            <div class="step-title">4. Output Artifacts</div>
+            <div class="step-desc" id="step-output-desc">Generating verified diagrams</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Results View -->
+      <section class="results-section" id="results-section">
+        
+        <!-- Metrics Bar -->
+        <div class="metrics-bar" id="metrics-bar">
+          <div class="metric-card">
+            <div class="metric-icon">📑</div>
+            <div class="metric-details">
+              <p>Total Slides Processed</p>
+              <h4 id="metric-slides">6 Slides</h4>
+            </div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-icon">🧩</div>
+            <div class="metric-details">
+              <p>Core Topics Extracted</p>
+              <h4 id="metric-topics">6 Topics</h4>
+            </div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-icon">🛡️</div>
+            <div class="metric-details">
+              <p>Sub-Agent Review</p>
+              <h4 id="metric-audit">APPROVED</h4>
+            </div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-icon">⚡</div>
+            <div class="metric-details">
+              <p>Harness Token Budget</p>
+              <h4 id="metric-budget">Single Pass (0 Loop)</h4>
+            </div>
+          </div>
+        </div>
+
+        <!-- Navigation Tabs -->
+        <div class="tabs-nav" id="tabs-navigation">
+          <button class="tab-btn active" id="tab-btn-diagram" onclick="switchTab('diagram')">
+            <span>📊</span> Visual Architecture
+          </button>
+          <button class="tab-btn" id="tab-btn-matrix" onclick="switchTab('matrix')">
+            <span>🧩</span> Concept Matrix
+          </button>
+          <button class="tab-btn" id="tab-btn-commands" onclick="switchTab('commands')">
+            <span>🛠️</span> Commands & Code
+          </button>
+          <button class="tab-btn" id="tab-btn-audit" onclick="switchTab('audit')">
+            <span>🔍</span> Sub-Agent Audit
+          </button>
+          <button class="tab-btn" id="tab-btn-markdown" onclick="switchTab('markdown')">
+            <span>📄</span> Markdown Output
+          </button>
+        </div>
+
+        <!-- Tabs Content Container -->
+        <div class="tab-content" id="tab-content-container">
+          
+          <!-- Pane 1: Visual Diagram -->
+          <div class="tab-pane active" id="pane-diagram">
+            <div class="diagram-toolbar">
+              <h3>Mermaid.js Architectural Diagram</h3>
+              <div class="diagram-actions">
+                <button class="btn-secondary" id="copy-mermaid-btn" onclick="copyMermaid()">
+                  <span>📋</span> Copy Diagram Code
+                </button>
+                <button class="btn-secondary" id="download-diagram-btn" onclick="downloadDiagram()">
+                  <span>💾</span> Download .mmd
+                </button>
+              </div>
+            </div>
+            
+            <div class="diagram-viewport" id="diagram-viewport">
+              <div class="mermaid" id="mermaid-target">
+                <!-- Mermaid diagram rendered here -->
+              </div>
+            </div>
+          </div>
+
+          <!-- Pane 2: Concept Matrix -->
+          <div class="tab-pane" id="pane-matrix">
+            <div class="table-toolbar">
+              <h3>Core Concept Architecture Matrix</h3>
+              <input type="text" class="search-box" id="matrix-search" placeholder="Filter concepts or slides..." oninput="filterMatrix(this.value)">
+            </div>
+            <table class="matrix-table" id="matrix-table">
+              <thead>
+                <tr>
+                  <th>Module / Concept</th>
+                  <th>Source Slide</th>
+                  <th>Core Focus & Purpose</th>
+                  <th>Critical Caveat / Best Practice</th>
+                </tr>
+              </thead>
+              <tbody id="matrix-tbody">
+                <!-- Table rows injected via JS -->
+              </tbody>
+            </table>
+          </div>
+
+          <!-- Pane 3: Commands & Code Reference -->
+          <div class="tab-pane" id="pane-commands">
+            <div class="table-toolbar">
+              <h3>Technical Guide & Command Reference</h3>
+              <button class="btn-secondary" onclick="copyCommands()">
+                <span>📋</span> Copy Commands
+              </button>
+            </div>
+            <div class="code-block-wrapper">
+              <div class="code-header">
+                <span>Bash / OpenCode CLI Commands</span>
+                <span>Synthesized from Slides</span>
+              </div>
+              <pre><code id="commands-code-block"># Commands will appear here</code></pre>
+            </div>
+          </div>
+
+          <!-- Pane 4: Sub-Agent Audit Report -->
+          <div class="tab-pane" id="pane-audit">
+            <div class="audit-header">
+              <div>
+                <h3>Sub-Agent Quality Audit Report</h3>
+                <p style="color: var(--text-muted); font-size: 0.88rem;">Audited by harness-defined subagent <code>@recap-reviewer</code></p>
+              </div>
+              <div class="audit-status-badge" id="audit-badge-display">
+                <span>✓</span> APPROVED
+              </div>
+            </div>
+            <div class="checklist" id="audit-checklist-container">
+              <!-- Checklist cards injected via JS -->
+            </div>
+          </div>
+
+          <!-- Pane 5: Full Markdown Output -->
+          <div class="tab-pane" id="pane-markdown">
+            <div class="markdown-actions">
+              <button class="btn-secondary" id="copy-markdown-btn" onclick="copyMarkdown()">
+                <span>📋</span> Copy Markdown
+              </button>
+              <button class="btn-secondary" id="download-markdown-btn" onclick="downloadMarkdown()">
+                <span>💾</span> Download recap.md
+              </button>
+            </div>
+            <div class="markdown-preview-box" id="markdown-preview-box">
+              <!-- Markdown text loaded here -->
+            </div>
+          </div>
+
+        </div>
+
+      </section>
+    </main>
+
+    <!-- Floating Feedback Toast -->
+    <div class="toast" id="toast-notification">
+      <span id="toast-message">Copied to clipboard!</span>
+    </div>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

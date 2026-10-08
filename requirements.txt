@@ -1,0 +1,7 @@
+numpy
+PyPDF2
+python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
+httpx

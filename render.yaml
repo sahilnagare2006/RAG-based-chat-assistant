@@ -1,0 +1,21 @@
+# Render Blueprint — deploy rag_chatbot as a separate Web Service
+# Docs: https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: btechnotes-rag
+    runtime: python
+    rootDir: rag_chatbot
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api_server:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/chatbot/health
+    envVars:
+      - key: RAG_DATA_DIR
+        value: /var/data
+      - key: PAGEINDEX_MODE
+        value: local
+      - key: CORS_ORIGINS
+        sync: false
+    disk:
+      name: rag-data
+      mountPath: /var/data
+      sizeGB: 1

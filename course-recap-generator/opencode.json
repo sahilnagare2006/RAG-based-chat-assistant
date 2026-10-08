@@ -1,0 +1,25 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "pdf-slides-mcp": {
+      "type": "local",
+      "command": [
+        "./.venv/bin/python",
+        "./mcp_server/pdf_slides_mcp.py"
+      ],
+      "enabled": true
+    }
+  },
+  "agent": {
+    "recap-reviewer": {
+      "mode": "subagent",
+      "description": "Reviews and audits course recap summaries and Mermaid diagrams against source slides to ensure technical fidelity and zero hallucinations.",
+      "prompt": "{file:./.opencode/agents/recap-reviewer.md}",
+      "permissions": {
+        "edit": true,
+        "write": true,
+        "bash": false
+      }
+    }
+  }
+}

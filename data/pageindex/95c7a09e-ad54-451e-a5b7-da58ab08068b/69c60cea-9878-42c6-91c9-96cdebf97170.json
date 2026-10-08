@@ -1,0 +1,11 @@
+{
+  "id": "69c60cea-9878-42c6-91c9-96cdebf97170",
+  "type": "pdf",
+  "path": "/Users/sahilnagare/Downloads/Btechnotes_chat-main/data/pdfs/95c7a09e-ad54-451e-a5b7-da58ab08068b-lebo105__1_.pdf",
+  "doc_name": "95c7a09e-ad54-451e-a5b7-da58ab08068b-lebo105__1_.pdf",
+  "page_count": 31,
+  "chunk_count": 140,
+  "rag_mode": "vector",
+  "chunks_file": "69c60cea-9878-42c6-91c9-96cdebf97170_chunks.json",
+  "vectors_file": "69c60cea-9878-42c6-91c9-96cdebf97170_vectors.npz"
+}

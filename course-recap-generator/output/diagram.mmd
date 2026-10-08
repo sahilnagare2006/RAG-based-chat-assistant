@@ -1,0 +1,10 @@
+flowchart TD
+    Start(["Lecture: Course Slide Ingestion"]) --> Input["Input PDF Deck: AI_Coding_Techniques_Assignment.pdf"]
+    Input --> MCP["MCP Tool: extract_pdf_slides"]
+    MCP --> CorePhases["Core Concepts & Architecture"]
+    CorePhases --> Phase1["Slide 1: deboistech  ·  2026-10-05"]
+    CorePhases --> Phase2["Slide 2: deboistech  ·  2026-10-05"]
+    CorePhases --> Phase3["Slide 3: deboistech  ·  2026-10-05"]
+    CorePhases --> Skill["Custom Skill: course-recap Playbook"]
+    Skill --> Audit["Sub-Agent: @recap-reviewer Audit Pass"]
+    Audit --> Output(["Verified Technical Recap + Visual Diagrams"])

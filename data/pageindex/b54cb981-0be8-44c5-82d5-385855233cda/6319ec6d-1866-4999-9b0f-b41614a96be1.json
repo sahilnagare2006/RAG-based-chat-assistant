@@ -1,0 +1,11 @@
+{
+  "id": "6319ec6d-1866-4999-9b0f-b41614a96be1",
+  "type": "pdf",
+  "path": "/Users/sahilnagare/Downloads/Btechnotes_chat-main/data/pdfs/b54cb981-0be8-44c5-82d5-385855233cda-Sahil_Nagare_TE_A_report.pdf",
+  "doc_name": "b54cb981-0be8-44c5-82d5-385855233cda-Sahil_Nagare_TE_A_report.pdf",
+  "page_count": 13,
+  "chunk_count": 0,
+  "rag_mode": "vector",
+  "chunks_file": "6319ec6d-1866-4999-9b0f-b41614a96be1_chunks.json",
+  "vectors_file": "6319ec6d-1866-4999-9b0f-b41614a96be1_vectors.npz"
+}

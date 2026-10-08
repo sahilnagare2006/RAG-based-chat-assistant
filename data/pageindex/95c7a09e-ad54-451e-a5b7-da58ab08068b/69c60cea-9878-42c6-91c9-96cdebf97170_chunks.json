@@ -1,0 +1,842 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "chunk_index": 1,
+    "page": 1,
+    "text": "CHAPTER 5\nMOLECULAR BASIS OF\nINHERITANCE\n5.1 The DNA\n5.2The Search for Genetic\nMaterial\n5.3RNA W orld\n5\n.4Replication\n5.5 Transcription\n5.6 Genetic Code\n5.7 Translation\n5.8 Regulation of Gene\nExpression\n5.9 Human Genome Project\n5.10 DNA FingerprintingIn the previous chapter , you have lear nt the inheritance\npatterns and the genetic basis of such patterns. At the\ntime of Mendel, the nature of those ‘factors’ regulating\nthe patter n of inheritance was not clear . Over the next\nhundred years, the nature of the putative genetic material\nwas investigated culminating in the realisation that\nDNA – deoxyribonucleic acid – is the genetic material, at"
+  },
+  {
+    "chunk_id": "chunk_2",
+    "chunk_index": 2,
+    "page": 1,
+    "text": " material\nwas investigated culminating in the realisation that\nDNA – deoxyribonucleic acid – is the genetic material, at\nleast for the majority of organisms. In class XI you have\nlearnt that nucleic acids are polymers of nucleotides.\nDeoxyribonucleic acid (DNA) and ribonucleic acid\n(RNA) are the two types of nucleic acids found in living\nsystems. DNA acts as the genetic material in most of the\norganisms. RNA though it also acts as a genetic material\nin some viruses, mostly functions as a messenger . RNA\nhas additional r oles as well. It functions as adapter ,\nstructural, and in some cases as a catalytic molecule. In\nClass XI you have already "
+  },
+  {
+    "chunk_id": "chunk_3",
+    "chunk_index": 3,
+    "page": 1,
+    "text": " as well. It functions as adapter ,\nstructural, and in some cases as a catalytic molecule. In\nClass XI you have already learnt the structures of\nnucleotides and the way these monomer units are linked\nto form nucleic acid polymers. In this chapter we are going\nto discuss the structure of DNA, its replication, the process\nof making RNA from DNA (transcription), the genetic code\nthat determines the sequences of amino acids in proteins,\nthe process of protein synthesis (translation) and\nelementary basis of their regulation. The determination\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_4",
+    "chunk_index": 4,
+    "page": 1,
+    "text": "determination\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_5",
+    "chunk_index": 5,
+    "page": 2,
+    "text": "80BIOLOGY\nof complete nucleotide sequence of human genome during last decade\nhas set in a new era of genomics. In the last section, the essentials of\nhuman genome sequencing and its consequences will also be discussed.\nLet us begin our discussion by first understanding the structure of\nthe most interesting molecule in the living system, that is, the DNA. In\nsubsequent sections, we will understand that why it is the most abundant\ngenetic material, and what its relationship is with RNA.\n5.1 T HE DNA\nDNA is a long polymer of deoxyribonucleotides.  The length of DNA is\nusually defined as number of nucleotides (or a pair of nucleotide referred\nto "
+  },
+  {
+    "chunk_id": "chunk_6",
+    "chunk_index": 6,
+    "page": 2,
+    "text": "oxyribonucleotides.  The length of DNA is\nusually defined as number of nucleotides (or a pair of nucleotide referred\nto as base pairs) present in it.  This also is the characteristic of an organism.\nFor example, a bacteriophage known as φ φφφφ×174 has 5386 nucleotides,\nBacteriophage lambda has 48502 base pairs (bp), Escherichia coli   has\n4.6 × 106 bp, and haploid content of human DNA is 3.3 × 109 bp. Let us\ndiscuss the structur\ne of such a long polymer .\n5.1.1 Structure of Polynucleotide Chain\nLet us recapitulate the chemical structure of a polynucleotide chain (DNA\nor RNA). A nucleotide has three components – a nitrogenous base, a\npentose s"
+  },
+  {
+    "chunk_id": "chunk_7",
+    "chunk_index": 7,
+    "page": 2,
+    "text": "al structure of a polynucleotide chain (DNA\nor RNA). A nucleotide has three components – a nitrogenous base, a\npentose sugar (ribose in case of RNA, and deoxyribose for DNA), and a\nphosphate group. There are two types of nitrogenous bases – Purines\n(Adenine and Guanine), and Pyrimidines (Cytosine, Uracil and Thymine).\nCytosine is common for both DNA and RNA and Thymine is present in\nDNA. Uracil is  present in RNA at the place of Thymine. A nitrogenous\nbase is linked to the OH of 1'C pentose sugar through a N-glycosidic\nlinkage to form a nucleoside, such as adenosine or deoxyadenosine,\nguanosine or deoxyguanosine, cytidine or deoxycytidine and"
+  },
+  {
+    "chunk_id": "chunk_8",
+    "chunk_index": 8,
+    "page": 2,
+    "text": "ge to form a nucleoside, such as adenosine or deoxyadenosine,\nguanosine or deoxyguanosine, cytidine or deoxycytidine and uridine or\ndeoxythymidine.  When a phosphate group is linked to OH  of 5'C  of a\nnucleoside through phosphoester linkage, a corresponding nucleotide\n(or deoxynucleotide depending upon the type of sugar present) is formed.\nTwo nucleotides are linked through 3 '-5' phosphodiester linkage to form\na dinucleotide.  More nucleotides can be joined in such a manner to form\na polynucleotide chain. A polymer thus formed has at one end a free\nFigure 5.1 A Polynucleotide chain\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_9",
+    "chunk_index": 9,
+    "page": 2,
+    "text": "rmed has at one end a free\nFigure 5.1 A Polynucleotide chain\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_10",
+    "chunk_index": 10,
+    "page": 3,
+    "text": "81MOLECULAR BASIS OF INHERITANCE\nphosphate moiety at 5 '-end of sugar , which is r eferred to as 5’-end of\npolynucleotide chain.  Similarly, at the other end of the polymer the sugar\nhas a free OH of 3 'C  group which is referred to as 3\n' -end of the\npolynucleotide chain.  The backbone of a polynucleotide chain is formed\ndue to sugar and phosphates. The nitrogenous bases linked to sugar\nmoiety project from the backbone (Figure 5.1).\nIn RNA, every nucleotide residue has an additional –OH group present\nat 2'-position in the ribose. Also, in RNA the uracil is found at the place of\nthymine (5-methyl uracil, another chemical name for thymine).\nDN"
+  },
+  {
+    "chunk_id": "chunk_11",
+    "chunk_index": 11,
+    "page": 3,
+    "text": "ibose. Also, in RNA the uracil is found at the place of\nthymine (5-methyl uracil, another chemical name for thymine).\nDNA  as an acidic substance present in nucleus was first identified by\nFriedrich Meischer in 1869.  He named it as ‘Nuclein ’. However , due to\ntechnical limitation in isolating such a long polymer intact, the elucidation\nof structure of DNA remained elusive for a very long period of time.  It was\nonly in 1953 that James W atson and Francis Crick, based on the X-ray\ndiffraction data produced by Maurice Wilkins and Rosalind Franklin,\nproposed a very simple but famous Double Helix  model for the structure\nof DNA.  One of the hal"
+  },
+  {
+    "chunk_id": "chunk_12",
+    "chunk_index": 12,
+    "page": 3,
+    "text": "s and Rosalind Franklin,\nproposed a very simple but famous Double Helix  model for the structure\nof DNA.  One of the hallmarks of their proposition was base pairing between\nthe two strands of polynucleotide chains.  However , this pr oposition was\nalso based on the observation of Erwin Chargaff that for a double stranded\nDNA, the ratios between Adenine  and Thymine  and Guanine  and Cytosine\nare constant and  equals one.\nThe base  pairing confers a very unique property to the polynucleotide\nchains. They ar e said to be complementary to each other , and ther efore if\nthe sequence of bases in one strand is known then the sequence in other\nstran"
+  },
+  {
+    "chunk_id": "chunk_13",
+    "chunk_index": 13,
+    "page": 3,
+    "text": "ementary to each other , and ther efore if\nthe sequence of bases in one strand is known then the sequence in other\nstrand can be predicted. Also, if each strand from a DNA (let us call it as a\nparental DNA) acts as a template for synthesis of a new strand, the two\ndouble stranded DNA (let us call them as daughter DNA) thus , produced\nwould be identical to the parental DNA molecule. Because of this, the genetic\nimplications of the structur e of DNA became very clear .\nThe salient features of the Double-helix structure of DNA are as follows:\n(i)It is made of two polynucleotide chains, where the backbone is\nconstituted by sugar -phosphate, and t"
+  },
+  {
+    "chunk_id": "chunk_14",
+    "chunk_index": 14,
+    "page": 3,
+    "text": "are as follows:\n(i)It is made of two polynucleotide chains, where the backbone is\nconstituted by sugar -phosphate, and the bases pr oject inside.\n(ii)The two chains have anti-parallel polarity. It means, if one\nchain has the polarity 5'/barb2right3', the other has 3 '/barb2right5'.\n(iii)The bases in two strands are paired through hydrogen bond\n(H-bonds) forming base pairs (bp). Adenine forms two hydrogen\nbonds with Thymine from opposite strand and vice-versa.\nSimilarly, Guanine is bonded with Cytosine with three H-bonds.\nAs a result, always a purine comes opposite to a pyrimidine. This\ngenerates approximately uniform distance between the two\n"
+  },
+  {
+    "chunk_id": "chunk_15",
+    "chunk_index": 15,
+    "page": 3,
+    "text": "a result, always a purine comes opposite to a pyrimidine. This\ngenerates approximately uniform distance between the two\nstrands of the helix (Figure 5.2).\n(iv)The two chains are coiled in a right -handed fashion.  The pitch\nof the helix is 3.4 nm (a nanometr e is one billionth of a\nmetre, that is 10-9 m) and there a re roughly 10 bp in each\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_16",
+    "chunk_index": 16,
+    "page": 4,
+    "text": "82BIOLOGY\nFigure 5.2  Double stranded polynucleotide chain\n Figure 5.3 DNA double helixturn. Consequently,  the distance\nbetween a bp in  a helix is\napproximately 0.34 nm.\n(v)The plane of one base pair stacks\nover the other in double helix. This,\nin addition to H-bonds, confers\nstability of the helical structure\n(Figure 5.3).\n Compare the structure of purines and\npyrimidines. Can you find out why the\ndistance between two polynucleotide\nchains in DNA remains almost constant?\nThe proposition of a double helix\nstructure for DNA and its simplicity in\nexplaining the genetic implication became\nrevolutionary. V ery soon, Francis Crick\nproposed the C"
+  },
+  {
+    "chunk_id": "chunk_17",
+    "chunk_index": 17,
+    "page": 4,
+    "text": " and its simplicity in\nexplaining the genetic implication became\nrevolutionary. V ery soon, Francis Crick\nproposed the Central dogma in molecular\nbiology, which states that the genetic\ninformation flows from DNA /barb2rightRNA/barb2rightProtein.\nCentral dogma\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_18",
+    "chunk_index": 18,
+    "page": 5,
+    "text": "83MOLECULAR BASIS OF INHERITANCE\nFigure 5.4a  Nucleosome\nFigure 5.4b EM picture - ‘Beads-on-String’\nIn some viruses the flow of information is in reverse direction, that is,\nfrom RNA to DNA.  Can you suggest a simple name to the process?\n5.1.2  Packaging of DNA Helix\nTaken the distance between two consecutive base pairs\nas 0.34 nm (0.34×10–9 m), if the length of DNA double\nhelix in a typical mammalian cell is calculated (simply\nby multiplying the total number of bp with distance\nbetween two consecutive bp, that is, 6.6 × 109 bp ×\n0.34 × 10-9m/bp), it comes out to be approximately\n2.2 metres. A length that is far greater than the\ndimension of "
+  },
+  {
+    "chunk_id": "chunk_19",
+    "chunk_index": 19,
+    "page": 5,
+    "text": " bp ×\n0.34 × 10-9m/bp), it comes out to be approximately\n2.2 metres. A length that is far greater than the\ndimension of a typical nucleus (approximately 10–6 m).\nHow is such a long polymer packaged in a cell?\nIf the length of E. coli DNA is 1.36 mm, can you\ncalculate the number of base pairs in E.coli?\nIn prokaryotes, such as, E. coli , though they do\nnot have a defined nucleus, the DNA is not scattered\nthroughout the cell.  DNA (being negatively charged)\nis held with some proteins (that have positive\ncharges) in a region termed as ‘nucleoid’.  The DNA\nin nucleoid is organised in large loops held by\nproteins.\nIn eukaryotes, this organisation "
+  },
+  {
+    "chunk_id": "chunk_20",
+    "chunk_index": 20,
+    "page": 5,
+    "text": "rmed as ‘nucleoid’.  The DNA\nin nucleoid is organised in large loops held by\nproteins.\nIn eukaryotes, this organisation is much more\ncomplex.  There is a set of positively charged, basic\nproteins called histones .  A protein acquires charge\ndepending upon the abundance of amino acids\nresidues with charged side chains. Histones are rich\nin the basic amino acid residues lysine and arginine.\nBoth the amino acid residues carry positive charges\nin their side chains. Histones are organised to form\na unit of eight molecules called histone octamer .\nThe negatively charged DNA is wrapped around the positively charged\nhistone octamer to form a structur"
+  },
+  {
+    "chunk_id": "chunk_21",
+    "chunk_index": 21,
+    "page": 5,
+    "text": "histone octamer .\nThe negatively charged DNA is wrapped around the positively charged\nhistone octamer to form a structure called nucleosome  (Figure 5.4 a). A\ntypical nucleosome contains 200 bp of DNA helix.  Nucleosomes constitute\nthe repeating unit of a structure in nucleus called \nchromatin, thread-\nlike stained (coloured) bodies seen in nucleus. The nucleosomes in\nchromatin are seen as ‘beads-on-string’ structure when viewed under\nelectron microscope (EM) (Figure 5.4 b).\nTheoretically, how many such beads (nucleosomes) do you imagine\nare present in a mammalian cell?\nThe beads-on-string structure in chromatin is packaged to form\nchromatin "
+  },
+  {
+    "chunk_id": "chunk_22",
+    "chunk_index": 22,
+    "page": 5,
+    "text": "o you imagine\nare present in a mammalian cell?\nThe beads-on-string structure in chromatin is packaged to form\nchromatin fibers that are further coiled and condensed at metaphase stage\nof cell division to form chromosomes. The packaging of chromatin at higher\nlevel requires additional set of proteins that collectively are referred to as\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_23",
+    "chunk_index": 23,
+    "page": 6,
+    "text": "84BIOLOGY\nNon-histone Chromosomal (NHC) proteins .  In a typical nucleus, some\nregion of chromatin are loosely packed (and stains light) and are referred to\nas euchromatin . The chromatin that is more densely packed and stains\ndark are called as Heterochromatin .  Euchromatin is said to be\ntranscriptionally active chromatin, whereas heterochromatin is inactive.\n5.2 T HE SEARCH  FOR GENETIC  MATERIAL\nEven though the discovery of nuclein by Meischer and the proposition\nfor principles of inheritance by Mendel were almost at the same time, but\nthat the DNA acts as a genetic material took long to be discovered and\nproven. By 1926, the quest to det"
+  },
+  {
+    "chunk_id": "chunk_24",
+    "chunk_index": 24,
+    "page": 6,
+    "text": " same time, but\nthat the DNA acts as a genetic material took long to be discovered and\nproven. By 1926, the quest to determine the mechanism for genetic\ninheritance had reached the molecular level. Previous discoveries by\nGregor Mendel, W alter Sutton, Thomas Hunt Mor gan and numer ous other\nscientists had narrowed the search to the chromosomes located in the\nnucleus of most cells. But the question of what molecule was actually the\ngenetic material, had not been answered.\nTransforming Principle\nIn 1928, Frederick Griffith, in a series of experiments with Streptococcus\npneumoniae  (bacterium responsible for pneumonia), witnessed a\nmiraculous t"
+  },
+  {
+    "chunk_id": "chunk_25",
+    "chunk_index": 25,
+    "page": 6,
+    "text": "n a series of experiments with Streptococcus\npneumoniae  (bacterium responsible for pneumonia), witnessed a\nmiraculous transformation in the bacteria. During the course of his\nexperiment, a living organism (bacteria) had changed in physical form.\nWhen Streptococcus pneumoniae  (pneumococcus) bacteria are grown\non a culture plate, some produce smooth shiny colonies (S) while others\nproduce rough colonies (R). This is because the S strain bacteria have a\nmucous (polysaccharide) coat, while R strain does not. Mice infected with\nthe S strain (virulent) die from pneumonia infection but mice infected\nwith the R strain do not develop pneumonia.\nGrif"
+  },
+  {
+    "chunk_id": "chunk_26",
+    "chunk_index": 26,
+    "page": 6,
+    "text": "\nthe S strain (virulent) die from pneumonia infection but mice infected\nwith the R strain do not develop pneumonia.\nGriffith was able to kill bacteria by heating them. He observed that\nheat-killed S strain bacteria injected into mice did not kill them. When he\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_27",
+    "chunk_index": 27,
+    "page": 7,
+    "text": "85MOLECULAR BASIS OF INHERITANCE\ninjected a mixture of heat-killed S and live R bacteria, the mice died.\nMoreover , he recover ed living S bacteria fr om the dead mice.\nHe concluded that the R strain bacteria had somehow been\ntransformed by the heat-killed S strain bacteria. Some ‘transforming\nprinciple’, transferred from the heat-killed S strain, had enabled the\nR strain to synthesise a smooth polysaccharide coat and become virulent.\nThis must be due to the transfer of the genetic material. However , the\nbiochemical nature of genetic material was not defined from his\nexperiments.\nBiochemical Characterisation of Transforming Principle\nPrior t"
+  },
+  {
+    "chunk_id": "chunk_28",
+    "chunk_index": 28,
+    "page": 7,
+    "text": "of genetic material was not defined from his\nexperiments.\nBiochemical Characterisation of Transforming Principle\nPrior to the work of Oswald Avery, Colin MacLeod and Maclyn McCarty\n(1933-44), the genetic material was thought to be a protein.  They worked\nto determine the biochemical nature of ‘transforming principle’ in Griffith's\nexperiment.\nThey purified biochemicals (proteins, DNA, RNA, etc.) from the\nheat-killed S cells to see which ones could transform live R cells into\nS cells. They discovered that DNA alone from S bacteria caused R bacteria\nto become transformed.\nThey also discovered that protein-digesting enzymes (proteases) and\nRNA-d"
+  },
+  {
+    "chunk_id": "chunk_29",
+    "chunk_index": 29,
+    "page": 7,
+    "text": "teria caused R bacteria\nto become transformed.\nThey also discovered that protein-digesting enzymes (proteases) and\nRNA-digesting enzymes (RNases) did not affect transformation, so the\ntransforming substance was not a protein or RNA. Digestion with DNase\ndid inhibit transformation, suggesting that the DNA caused the\ntransformation. They concluded that DNA is the hereditary material, but\nnot all biologists were convinced.\nCan you think of any difference between DNAs and DNase?\n5.2.1 The Genetic Material is DNA\nThe unequivocal proof that DNA is the genetic material came from the\nexperiments of Alfred Hershey and Martha Chase (1952). They worked\n"
+  },
+  {
+    "chunk_id": "chunk_30",
+    "chunk_index": 30,
+    "page": 7,
+    "text": "proof that DNA is the genetic material came from the\nexperiments of Alfred Hershey and Martha Chase (1952). They worked\nwith viruses that infect bacteria called bacteriophages.\nThe bacteriophage attaches to the bacteria and its genetic material\nthen enters the bacterial cell. The bacterial cell treats the viral genetic\nmaterial as if it was its own and subsequently manufactures more virus\nparticles. Hershey and Chase worked to discover whether it was protein\nor DNA from the viruses that entered the bacteria.\nThey grew some viruses on a medium that contained radioactive\nphosphorus and some others on medium that contained radioactive sulfur .\nV"
+  },
+  {
+    "chunk_id": "chunk_31",
+    "chunk_index": 31,
+    "page": 7,
+    "text": "iruses on a medium that contained radioactive\nphosphorus and some others on medium that contained radioactive sulfur .\nViruses grown in the presence of radioactive phosphorus contained\nradioactive DNA but not radioactive protein because DNA contains\nphosphorus but protein does not.  Similarly, viruses grown on radioactive\nsulfur contained radioactive protein but not radioactive DNA because\nDNA does not contain sulfur .\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_32",
+    "chunk_index": 32,
+    "page": 8,
+    "text": "86BIOLOGY\nRadioactive phages were allowed to attach to E. coli  bacteria. Then, as\nthe infection proceeded, the viral coats were removed from the bacteria by\nagitating them in a blender . The virus particles were separated fr om the\nbacteria by spinning them in a centrifuge.\nBacteria which was infected with viruses that had radioactive DNA\nwere radioactive, indicating that DNA was the material that passed from\nthe virus to the bacteria. Bacteria that were infected with viruses that had\nradioactive proteins were not radioactive. This indicates that proteins did\nnot enter the bacteria from the viruses. DNA is therefore the genetic\nmaterial that"
+  },
+  {
+    "chunk_id": "chunk_33",
+    "chunk_index": 33,
+    "page": 8,
+    "text": "ve. This indicates that proteins did\nnot enter the bacteria from the viruses. DNA is therefore the genetic\nmaterial that is passed from virus to bacteria (Figure 5.5).\nFigure 5.5  The Hershey-Chase experiment\n5.2.2 Properties of Genetic Material (DNA versus RNA)\nFrom the foregoing discussion, it is clear that the debate between proteins\nversus DNA as the genetic material was unequivocally resolved from\nHershey -Chase experiment. It became an established fact that it is DNA\nthat acts as genetic material. However , it subsequently became clear that\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_34",
+    "chunk_index": 34,
+    "page": 8,
+    "text": "ntly became clear that\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_35",
+    "chunk_index": 35,
+    "page": 9,
+    "text": "87MOLECULAR BASIS OF INHERITANCE\nin some viruses , RNA is the genetic material (for example, Tobacco Mosaic\nviruses, QB bacteriophage , etc.).  Answer to some of the questions such as,\nwhy DNA is the predominant genetic material, whereas RNA performs\ndynamic functions of messenger and adapter has to be found from the\ndifferences between chemical structures of the two nucleic acid molecules.\nCan you recall the two chemical differences between DNA and RNA?\nA molecule that can act as a genetic material must fulfill the following\ncriteria:\n(i)It should be able to generate its replica (Replication).\n(ii)It should be stable chemically and structura"
+  },
+  {
+    "chunk_id": "chunk_36",
+    "chunk_index": 36,
+    "page": 9,
+    "text": "g\ncriteria:\n(i)It should be able to generate its replica (Replication).\n(ii)It should be stable chemically and structurally.\n(iii)It should provide the scope for slow changes (mutation) that\nare required for evolution.\n(iv)It should be able to express itself in the form of 'Mendelian\nCharacters’.\nIf one examines each requirement one by one, because of rule of base\npairing and complementarity, both the nucleic acids (DNA and RNA) have\nthe ability to direct their duplications. The other molecules in the living\nsystem, such as proteins fail to fulfill first criteria itself.\nThe genetic material should be stable enough not to change with\ndifferen"
+  },
+  {
+    "chunk_id": "chunk_37",
+    "chunk_index": 37,
+    "page": 9,
+    "text": "proteins fail to fulfill first criteria itself.\nThe genetic material should be stable enough not to change with\ndifferent stages of life cycle, age or with change in physiology of the\norganism.  Stability as one of the properties of genetic material was very\nevident in Griffith’s ‘transforming principle’ itself that heat, which killed\nthe bacteria, at least did not destroy some of the properties of genetic\nmaterial. This now can easily be explained in light of the DNA that the\ntwo strands being complementary if separated by heating come together ,\nwhen appr opriate conditions ar e provided.  Further , 2'-OH gr oup pr esent\nat every nucleotide"
+  },
+  {
+    "chunk_id": "chunk_38",
+    "chunk_index": 38,
+    "page": 9,
+    "text": "heating come together ,\nwhen appr opriate conditions ar e provided.  Further , 2'-OH gr oup pr esent\nat every nucleotide in RNA is a reactive group and makes RNA labile and\neasily degradable. RNA is also now known to be catalytic, hence reactive.\nTherefore, DNA chemically is less reactive and structurally more stable\nwhen compa red to RNA. Therefore, among the two nucleic acids, the DNA\nis a better genetic material.\nIn fact, the presence of thymine at the place of uracil also confers\nadditional stability to DNA. (Detailed discussion about this requires\nunderstanding of the process of repair in DNA, and you will study these\nprocesses in higher"
+  },
+  {
+    "chunk_id": "chunk_39",
+    "chunk_index": 39,
+    "page": 9,
+    "text": "scussion about this requires\nunderstanding of the process of repair in DNA, and you will study these\nprocesses in higher classes.)\nBoth DNA and RNA are able to mutate.  In fact, RNA being unstable,\nmutate at a faster rate.  Consequently, viruses having RNA genome and\nhaving shorter life span mutate and evolve faster .\nRNA can directly code for the synthesis of proteins, hence can easily\nexpress the characters.  DNA, however , is dependent on RNA for synthesis\nof proteins.  The protein synthesising machinery has evolved around RNA.\nThe above discussion indicate that both RNA and DNA can function as\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_40",
+    "chunk_index": 40,
+    "page": 9,
+    "text": "d RNA.\nThe above discussion indicate that both RNA and DNA can function as\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_41",
+    "chunk_index": 41,
+    "page": 10,
+    "text": "88BIOLOGY\ngenetic material, but DNA being more stable is preferred for storage of\ngenetic information. For the transmission of genetic information, RNA\nis better .\n5.3 RNA W ORLD\nFrom foregoing discussion, an immediate question becomes evident –\nwhich is the first genetic material? It shall be discussed in detail in the\nchapter on chemical evolution, but briefly, we shall highlight some of the\nfacts and points.\nRNA was the first genetic material.  There is now enough evidence to\nsuggest that essential life processes (such as metabolism, translation,\nsplicing , etc.), evolved around RN A. RNA used to act as\na genetic material as well as a cata"
+  },
+  {
+    "chunk_id": "chunk_42",
+    "chunk_index": 42,
+    "page": 10,
+    "text": " metabolism, translation,\nsplicing , etc.), evolved around RN A. RNA used to act as\na genetic material as well as a catalyst (there are some\nimportant biochemical reactions in living systems that\nare catalysed by RNA catalysts and not by protein\nenzymes). But, RNA being a catalyst was reactive and\nhence unstable.  Therefore, DNA has evolved from RNA\nwith chemical modifications that make it more stable.\nDNA being double stranded and having complementary\nstrand further resists changes by evolving a process of\nrepair.\n5.4 R EPLICA TION\nWhile proposing the double helical structure for DNA,\nWatson and Crick had immediately pr oposed a scheme\nfor r"
+  },
+  {
+    "chunk_id": "chunk_43",
+    "chunk_index": 43,
+    "page": 10,
+    "text": "ICA TION\nWhile proposing the double helical structure for DNA,\nWatson and Crick had immediately pr oposed a scheme\nfor replication of DNA. To quote their original statement\nthat is as follows:\n‘‘It has not escaped our notice that the specific\npairing we have postulated immediately suggests a\npossible copying mechanism for the genetic material’’\n(Watson and Crick, 1953).\nThe scheme suggested that the two strands would\nseparate and act as a template for the synthesis of new\ncomplementary strands. After the completion of\nreplication, each DNA molecule would have one\nparental and one newly synthesised strand. This\nscheme was termed as semiconserv"
+  },
+  {
+    "chunk_id": "chunk_44",
+    "chunk_index": 44,
+    "page": 10,
+    "text": "ation, each DNA molecule would have one\nparental and one newly synthesised strand. This\nscheme was termed as semiconservative  DNA\nreplication (Figure 5.6).\n5.4.1 The Experimental Proof\nIt is now proven that DNA replicates semiconservatively.   It was shown first in\nEscherichia coli  and subsequently in higher organisms, such as plantsFigur e 5.6 Watson-Crick model for\nsemiconservative DNA\nreplication\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_45",
+    "chunk_index": 45,
+    "page": 11,
+    "text": "89MOLECULAR BASIS OF INHERITANCE\nFigure 5.7 Meselson and Stahl’s Experimentand human cells. Matthew Meselson and Franklin Stahl performed the\nfollowing experiment in 1958:\n(i)They grew E. coli  in a medium containing 15NH4Cl (15N is the heavy\nisotope of nitrogen) as the only nitrogen source for many\ngenerations. The result was that 15N was incorporated into newly\nsynthesi sed DNA (as well as other nitrogen containing compounds).\nThis heavy DNA molecule could be distinguished from the normal\nDNA by centrifugation in a cesium chloride (CsCl) density gradient\n(Please note that 15N is not a radioactive isotope, and it can be\nseparated from 14N on"
+  },
+  {
+    "chunk_id": "chunk_46",
+    "chunk_index": 46,
+    "page": 11,
+    "text": "chloride (CsCl) density gradient\n(Please note that 15N is not a radioactive isotope, and it can be\nseparated from 14N only based on densities) .\n(ii)Then they transferred the cells into a medium with normal\n14NH4Cl and took samples at various definite time intervals as\nthe cells multiplied, and extracted the DNA that remained as\ndouble-stranded helices.  The various samples were separated\nindependently on CsCl gradients to measure the densities of\nDNA (Figure 5.7).\nCan you recall what centrifugal force is, and think why a\nmolecule with higher mass/density would sediment faster?\nThe results are shown in Figure 5.7.\n(iii)Thus, the DNA that was "
+  },
+  {
+    "chunk_id": "chunk_47",
+    "chunk_index": 47,
+    "page": 11,
+    "text": "lecule with higher mass/density would sediment faster?\nThe results are shown in Figure 5.7.\n(iii)Thus, the DNA that was extracted from the culture one\ngeneration after the transfer from 15N to 14N medium [that is\nafter 20 minutes; E. coli  divides in 20 minutes] had a hybrid or\nintermediate density.  DNA extracted from the cult ure after\nanother generation [that is after 40 minutes, II generation] was\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_48",
+    "chunk_index": 48,
+    "page": 12,
+    "text": "90BIOLOGY\ncomposed of equal amounts of this hybrid DNA and of ‘light’\nDNA.\nIf E. coli was allowed to grow for 80 minutes then what would be the\nproportions of light and hybrid densities DNA molecule?\nVery similar experiments involving use of radioactive thymidine to\ndetect distribution of newly synthesised DNA in the chromosomes was\nperformed on Vicia faba  (faba beans) by Taylor and colleagues in 1958.\nThe experiments proved that the DNA in chromosomes also replicate\nsemiconservatively.\n5.4.2 The Machinery and the Enzymes\n In living cells, such as E. coli , the process of replication requires a set of\ncatalysts (enzymes).  The main enzyme is"
+  },
+  {
+    "chunk_id": "chunk_49",
+    "chunk_index": 49,
+    "page": 12,
+    "text": "In living cells, such as E. coli , the process of replication requires a set of\ncatalysts (enzymes).  The main enzyme is referred to as DNA-dependent\nDNA polymerase , since it uses a DNA template to catalyse the\npolymerisation of deoxynucleotides. These enzymes are highly efficient\nenzymes as they have to catalyse polymerisation of a large number of\nnucleotides in a very short time. E. coli  that has only 4. 6×106 bp (compare\nit with human whose diploid content is 6.6 ×\n 109 bp), completes the\nprocess of replication within 18 minutes; that means the average rate of\npolymerisation has to be approximately 2000 bp per second. Not only do\nthese p"
+  },
+  {
+    "chunk_id": "chunk_50",
+    "chunk_index": 50,
+    "page": 12,
+    "text": "8 minutes; that means the average rate of\npolymerisation has to be approximately 2000 bp per second. Not only do\nthese polymerases have to be fast, but they also have to catalyse the reaction\nwith high degree of accuracy.  Any mistake during replication would result\ninto mutations.  Furthermore, energetically replication is a very expensive\nprocess. Deoxyribonucleoside triphosphates serve dual purposes. In\naddition to acting as substrates, they provide energy for polymerisation\nreaction (the two terminal phosphates in a deoxynucleoside triphosphates\nare high-energy phosphates, same as in case of ATP).\nIn addition to DNA-dependent DNA polymera"
+  },
+  {
+    "chunk_id": "chunk_51",
+    "chunk_index": 51,
+    "page": 12,
+    "text": "ynucleoside triphosphates\nare high-energy phosphates, same as in case of ATP).\nIn addition to DNA-dependent DNA polymerases, many additional\nenzymes are required to complete the process of replication with high\ndegree of accuracy.  For long DNA molecules, since the two strands of\nDNA cannot be separated in its entire length (due to very high energy\nrequirement), the replication occur within a small opening of the DNA\nhelix, referred to as replication fork . The DNA-dependent DNA\npolymerases catalyse polymerisation only in one direction, that is 5 '/barb2right3'.\nThis creates some additional complications at the replicating fork.\nConsequently,"
+  },
+  {
+    "chunk_id": "chunk_52",
+    "chunk_index": 52,
+    "page": 12,
+    "text": "e direction, that is 5 '/barb2right3'.\nThis creates some additional complications at the replicating fork.\nConsequently, on one strand (the template with polarity 3 '/barb2right5'), the\nreplication is continuous , while on the other (the template with\npolarity 5'/barb2right3'), it is discontinuous. The discontinuously synthesised\nfragments are later joined by the enzyme DNA ligase  (Figure 5.8).\nThe DNA polymerases on their own cannot initiate the process of\nreplication.  Also the replication does not initiate randomly at any place\nin DNA.  There is a definite region in E. coli  DNA where the replication\noriginates.  Such regions are termed a"
+  },
+  {
+    "chunk_id": "chunk_53",
+    "chunk_index": 53,
+    "page": 12,
+    "text": "y place\nin DNA.  There is a definite region in E. coli  DNA where the replication\noriginates.  Such regions are termed as origin of replication . It is\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_54",
+    "chunk_index": 54,
+    "page": 13,
+    "text": "91MOLECULAR BASIS OF INHERITANCE\nbecause of the requirement of the origin of\nreplication that a piece of DNA if needed to be\npropagated during recombinant DNA procedures,\nrequir es a vector . The vectors pr ovide the origin of\nreplication.\nFurther , not every detail of r eplication is\nunderstood well.  In eukaryotes, the replication of\nDNA takes place at S-phase of the cell-cycle.  The\nreplication of DNA and cell division cycle should be\nhighly coordinated. A failure in cell division after\nDNA replication results into polyploidy(a\nchromosomal anomaly). Y ou will lear n the detailed\nnature of origin and the processes occurring at this\nsite, in"
+  },
+  {
+    "chunk_id": "chunk_55",
+    "chunk_index": 55,
+    "page": 13,
+    "text": "oidy(a\nchromosomal anomaly). Y ou will lear n the detailed\nnature of origin and the processes occurring at this\nsite, in higher classes.\n5.5 T RANSCRIPTION\nThe process of copying genetic information from one\nstrand of the DNA into RNA is termed as\ntranscription . Here also, the principle of\ncomplementarity governs the process of transcription, except the adenosine\ncomplements now for ms base pair with uracil instead of thymine.  However ,\nunlike in the process of replication, which once set in, the total DNA of an\norganism gets duplicated, in transcription only a segment of DNA and\nonly one of the strands is copied into RNA.  This necessitate"
+  },
+  {
+    "chunk_id": "chunk_56",
+    "chunk_index": 56,
+    "page": 13,
+    "text": "ets duplicated, in transcription only a segment of DNA and\nonly one of the strands is copied into RNA.  This necessitates defining the\nboundaries that would demarcate the region and the strand of DNA that\nwould be transcribed.\nWhy both the strands are not copied during transcription has the\nsimple answer . First, if both strands act as a template, they would code\nfor RNA molecule with different sequences (Remember complementarity\ndoes not mean identical), and in turn, if they code for proteins, the sequence\nof amino acids in the proteins would be different. Hence, one segment of\nthe DNA would be coding for two different proteins, and this wou"
+  },
+  {
+    "chunk_id": "chunk_57",
+    "chunk_index": 57,
+    "page": 13,
+    "text": " the proteins would be different. Hence, one segment of\nthe DNA would be coding for two different proteins, and this would\ncomplicate the genetic information transfer machinery. Second, the two\nRNA molecules if produced simultaneously would be complementary to\neach other , hence would for m a double stranded RNA. This would pr event\nRNA from being translated into protein and the exercise of transcription\nwould become a futile one.\n5.5.1 Transcription Unit\nA transcription unit in DNA is defined primarily by the three regions in\nthe DN A:\n(i)A Promoter\n(ii)The Structural gene\n(iii)A TerminatorFigure 5.8 Replicating Fork\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_58",
+    "chunk_index": 58,
+    "page": 13,
+    "text": "in\nthe DN A:\n(i)A Promoter\n(ii)The Structural gene\n(iii)A TerminatorFigure 5.8 Replicating Fork\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_59",
+    "chunk_index": 59,
+    "page": 14,
+    "text": "92BIOLOGY\nThere is a convention in defining the two strands of the DNA in the\nstructural gene of a transcription unit.  Since the two strands have opposite\npolarity and the DNA-dependent RNA polymerase  also catalyse the\npolymerisation in only one direction, that is, 5 '→3', the strand that has\nthe polarity 3 '→5' acts as a template, and is also referred to as \ntemplate\nstrand . The other strand which has the polarity (5 '→3') and the sequence\nsame as RNA (except thymine at the place of uracil), is displaced during\ntranscription.  Strangely, this strand (which does not code for anything)\nis referred to as coding strand .  All the reference po"
+  },
+  {
+    "chunk_id": "chunk_60",
+    "chunk_index": 60,
+    "page": 14,
+    "text": "tion.  Strangely, this strand (which does not code for anything)\nis referred to as coding strand .  All the reference point while defining a\ntranscription unit is made with coding strand. To explain the point, a\nhypothetical sequence from a transcription unit is represented below:\n3'-ATGCATGCATGCATGCATGCATGC-5 '   Template Strand\n5'-TACGTACGTACGTACGTACGTACG-3 '   Coding Strand\nCan you now write the sequence of RNA transcribed from the above DNA?\nFigure 5.9 Schematic structure of a transcription unit\nThe promoter  and terminator  flank the structural gene  in a\ntranscription unit.  The promoter is said to be located towards 5 '-end\n(upstream) "
+  },
+  {
+    "chunk_id": "chunk_61",
+    "chunk_index": 61,
+    "page": 14,
+    "text": "tor  flank the structural gene  in a\ntranscription unit.  The promoter is said to be located towards 5 '-end\n(upstream) of the structural gene (the reference is made with respect to\nthe polarity of coding strand).  It is a DNA sequence that provides binding\nsite for  RNA polymerase, and it is the presence of a promoter in a\ntranscription unit that also defines the template and coding strands.  By\nswitching its position with ter minator , the definition of coding and template\nstrands could be reversed. The terminator is located towards 3 '-end\n(downstream) of the coding strand and it usually defines the end of the\nprocess of transcription (Fig"
+  },
+  {
+    "chunk_id": "chunk_62",
+    "chunk_index": 62,
+    "page": 14,
+    "text": "ed towards 3 '-end\n(downstream) of the coding strand and it usually defines the end of the\nprocess of transcription (Figure 5.9). There are additional regulatory\nsequences that may be present further upstream or downstream to the\npromoter .  Some of the properties of these sequences shall be discussed\nwhile dealing with regulation of gene expression.\n5.5.2 Transcription Unit and the Gene\nA gene is defined as the functional unit of inheritance. Though there is no\nambiguity that the genes are located on the DNA, it is difficult to literally\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_63",
+    "chunk_index": 63,
+    "page": 14,
+    "text": "t to literally\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_64",
+    "chunk_index": 64,
+    "page": 15,
+    "text": "93MOLECULAR BASIS OF INHERITANCE\ndefine a gene in terms of DNA sequence. The DNA sequence coding for\ntRNA or rRNA molecule also define a gene. However by defining a cistron\nas a segment of DNA coding for a polypeptide, the structural gene in a\ntranscription unit could be said as monocistronic  (mostly in eukaryotes)\nor polycistronic  (mostly in bacteria or prokaryotes). In eukaryotes, the\nmonocistronic structural genes have interrupted coding sequences – the\ngenes in eukaryotes are split. The coding sequences or expressed\nsequences are defined as exons . Exons are said to be those sequence\nthat appear in mature or processed RNA.  The exons ar"
+  },
+  {
+    "chunk_id": "chunk_65",
+    "chunk_index": 65,
+    "page": 15,
+    "text": "quences are defined as exons . Exons are said to be those sequence\nthat appear in mature or processed RNA.  The exons are interrupted by\nintrons .  Introns or intervening sequences do not appear in mature or\nprocessed RNA. The split-gene arrangement further complicates the\ndefinition of a gene in terms of a DNA segment.\nInheritance of a character is also affected by promoter and regulatory\nsequences of a structural gene.  Hence, sometime the regulatory sequences\nare loosely defined as regulatory genes, even though these sequences do\nnot code for any RNA or  protein.\n5.5.3 Types of RNA and the process of Transcription\nIn bacteria, there are th"
+  },
+  {
+    "chunk_id": "chunk_66",
+    "chunk_index": 66,
+    "page": 15,
+    "text": "ences do\nnot code for any RNA or  protein.\n5.5.3 Types of RNA and the process of Transcription\nIn bacteria, there are three major types of RNAs: mRNA (messenger RNA),\ntRNA (transfer RNA), and rRNA (ribosomal RNA).  All three RNAs are\nneeded to synthesise a protein in a cell.  The mRNA provides the template,\ntRNA brings aminoacids and reads the genetic code, and rRNAs play\nstructural and catalytic role during translation. There is single\nDNA-dependent RNA polymerase that catalyses transcription of all types\nof RNA in bacteria. RNA polymerase binds to promoter and initiates\ntranscription ( Initiation ). It uses nucleoside triphosphates as subst"
+  },
+  {
+    "chunk_id": "chunk_67",
+    "chunk_index": 67,
+    "page": 15,
+    "text": ". RNA polymerase binds to promoter and initiates\ntranscription ( Initiation ). It uses nucleoside triphosphates as substrate\n Figure 5.10 Process of Transcription in Bacteria\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_68",
+    "chunk_index": 68,
+    "page": 16,
+    "text": "94BIOLOGY\nand polymerises in a template depended fashion following the rule of\ncomplementarity.  It somehow also facilitates opening of the helix and\ncontinues elongation.  Only a short stretch of RNA remains bound to the\nenzyme. Once the polymerases reaches the terminator region, the nascent\nRNA falls off, so also the RNA polymerase.  This results in termination  of\ntranscription.\nAn intriguing question is that how is the RNA polymerase s able\nto cataly se all the three steps, which are initiation, elongation and\ntermination.  The RNA polymerase is only capable of cataly sing the\nprocess of elongation.  It associates transiently with initiat"
+  },
+  {
+    "chunk_id": "chunk_69",
+    "chunk_index": 69,
+    "page": 16,
+    "text": "n.  The RNA polymerase is only capable of cataly sing the\nprocess of elongation.  It associates transiently with initiation-factor  (σ)\nand termination-factor  (ρ) to initiate and terminate the transcription,\nrespectively.  Association with these factors alter  the specificity of the\nRNA polymerase to either initiate or terminate (Figure 5.10).\nIn bacteria , since the mRNA does not require any processing to become\nactive, and also since transcription and translation take place in the same\ncompartment (there is no separation of cytosol and nucleus in bacteria),\nmany times the translation can begin much before the  mRNA is fully\ntranscribed . C"
+  },
+  {
+    "chunk_id": "chunk_70",
+    "chunk_index": 70,
+    "page": 16,
+    "text": "of cytosol and nucleus in bacteria),\nmany times the translation can begin much before the  mRNA is fully\ntranscribed . Consequently, the transcription and translation can be coupled\nin bacteria.\nIn eukaryotes, there are two additional complexities  –\n(i)There are at least three RNA polymerases in the nucleus (in addition\nto the RNA polymerase found in the organelles).  There is a clear\ncut division of labour . The RNA polymerase  I transcribes  rRNAs\nFigure 5.11  Process of Transcription in Eukaryotes\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_71",
+    "chunk_index": 71,
+    "page": 17,
+    "text": "95MOLECULAR BASIS OF INHERITANCE\n(28S, 18S, and 5.8 S), whereas the RNA polymerase III is responsible\nfor transcription  of tRNA , 5srRNA , and snRNAs  (small nuclear\nRNAs ). The RNA polymerase II transcribes precursor of mRNA, the\nheterogeneous nuclear RNA (hnRNA ).\n(ii) The second complexity is that the primary transcripts contain both\nthe exons and the introns  and are non -functional.  Hence, it is\nsubjected to a process called splicing  where the introns are removed\nand exons ar e joined in a defined or der. hnRNA under goes\nadditional processing called as capping and tailing. In capping  an\nunusual nucleotide (methyl guanosine triphosph"
+  },
+  {
+    "chunk_id": "chunk_72",
+    "chunk_index": 72,
+    "page": 17,
+    "text": " goes\nadditional processing called as capping and tailing. In capping  an\nunusual nucleotide (methyl guanosine triphosphate) is added to\nthe 5 '-end of hnRNA. In tailing , adenylate residues (200-300) are\nadded at 3 '-end in a template independent manner . It is the  fully\nprocessed hnRNA , now called mRNA ,\n that is transported out of the\nnucleus for translation (Figure 5.11).\nThe significance of such complexities is now beginning to be\nunderstood.  The split-gene arrangements represent probably an ancient\nfeature of the genome.  The presence of introns is reminiscent of antiquity,\nand the process of splicing represents the dominance of RNA-"
+  },
+  {
+    "chunk_id": "chunk_73",
+    "chunk_index": 73,
+    "page": 17,
+    "text": "nome.  The presence of introns is reminiscent of antiquity,\nand the process of splicing represents the dominance of RNA-world .  In\nrecent times, the understanding of RNA and RNA-dependent processes\nin the living system have assumed more importance.\n5.6  G ENETIC  CODE\nDuring replication and transcription a nucleic acid was copied to form\nanother nucleic acid. Hence, these processes are easy to conceptualise\non the basis of complementarity. The process of translation requires\ntransfer of genetic information from a polymer of nucleotides to synthesise\na polymer of amino acids. Neither does any complementarity exist between\nnucleotides and amin"
+  },
+  {
+    "chunk_id": "chunk_74",
+    "chunk_index": 74,
+    "page": 17,
+    "text": " nucleotides to synthesise\na polymer of amino acids. Neither does any complementarity exist between\nnucleotides and amino acids, nor could any be drawn theoretically. There\nexisted ample evidences, though, to support the notion that change in\nnucleic acids (genetic material) were responsible for change in amino acids\nin proteins.  This led to the proposition of a genetic code that could direct\nthe sequence of amino acids during synthesis of proteins.\nIf determining the biochemical nature of genetic material and the\nstructure of DNA was very exciting, the proposition and deciphering of\ngenetic code were most challenging. In a very true sense, "
+  },
+  {
+    "chunk_id": "chunk_75",
+    "chunk_index": 75,
+    "page": 17,
+    "text": " of DNA was very exciting, the proposition and deciphering of\ngenetic code were most challenging. In a very true sense, it required\ninvolvement of scientists from several disciplines – physicists, organic\nchemists, biochemists and geneticists. It was George Gamow, a physicist,\nwho argued that since there are only 4 bases and if they have to code for\n20 amino acids, the code should constitute a combination of bases. He\nsuggested that in order to code for all the 20 amino acids, the code should\nbe made up of three nucleotides. This was a very bold proposition, because\na permutation combination of 43 (4 × 4 × 4) would generate 64 codons;\ngenerat"
+  },
+  {
+    "chunk_id": "chunk_76",
+    "chunk_index": 76,
+    "page": 17,
+    "text": " This was a very bold proposition, because\na permutation combination of 43 (4 × 4 × 4) would generate 64 codons;\ngenerating many more codons than required.\nProviding proof that the codon was a triplet, was a more daunting\ntask. The chemical method developed by Har Gobind Khorana was\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_77",
+    "chunk_index": 77,
+    "page": 18,
+    "text": "96BIOLOGY\ninstrumental in synthesising RNA molecules with defined combinations\nof bases (homopolymers and copolymers). Marshall Nirenberg’s cell-free\nsystem for protein synthesis finally helped the code to be deciphered.\nSevero Ochoa enzyme (polynucleotide phosphorylase) was also helpful\nin polymerising RNA with defined sequences in a template independent\nmanner (enzymatic synthesis of RNA). Finally a checker -boar d for genetic\ncode was prepared which is given in Table 5.1.\nTable 5.1: The Codons for the V arious Amino Acids\nThe salient fea tures of genetic code are as follows:\n(i)The codon is triplet.  61 codons code for amino acids and 3 co"
+  },
+  {
+    "chunk_id": "chunk_78",
+    "chunk_index": 78,
+    "page": 18,
+    "text": "\nThe salient fea tures of genetic code are as follows:\n(i)The codon is triplet.  61 codons code for amino acids and 3 codons do\nnot code for any amino acids, hence they function as stop codons.\n(ii)Some amino acids are coded by more than one codon, hence\nthe code is degenerate .\n(iii)The codon is read in mRNA in a contiguous fashion. There are\nno punctuations.\n(iv)The code is nearly universal : for example, from bacteria to human\nUUU would code for  Phenylalanine (phe). Some exceptions to this\nrule have been found in mitochondrial codons, and in some\nprotozoans.\n(v)AUG has dual functions. It codes for Methionine (met) , and it\nalso act as ini"
+  },
+  {
+    "chunk_id": "chunk_79",
+    "chunk_index": 79,
+    "page": 18,
+    "text": "ndrial codons, and in some\nprotozoans.\n(v)AUG has dual functions. It codes for Methionine (met) , and it\nalso act as initiator  codon.\n(vi)UAA, UAG, UGA are stop terminator codons.\nIf following is the sequence of nucleotides in mRNA, predict the\nsequence of amino acid coded by it (take help of the checkerboar d)\n:\n-AUG UUU UUC UUC UUU UUU UUC-\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_80",
+    "chunk_index": 80,
+    "page": 19,
+    "text": "97MOLECULAR BASIS OF INHERITANCE\nNow try the opposite.  Following is the sequence of amino acids coded\nby an mRNA. Predict the nucleotide sequence in the RNA:\nMet-Phe-Phe-Phe-Phe-Phe-Phe\nDo you face any difficulty in predicting the opposite?\nCan you now correlate which two properties of genetic code you have\nlearnt?\n5.6.1 Mutations and Genetic Code\nThe relationships between genes and DNA are best understood by mutation\nstudies.  You have studied about mutation and its ef fect in Chapter  4.  Effects\nof large deletions and rearrangements in a segment of DNA are easy to\ncomprehend.  It may result in loss or gain of a gene and so a function.  Th"
+  },
+  {
+    "chunk_id": "chunk_81",
+    "chunk_index": 81,
+    "page": 19,
+    "text": "arrangements in a segment of DNA are easy to\ncomprehend.  It may result in loss or gain of a gene and so a function.  The\neffect of point mutations will be explained here.  A classical example of\npoint mutation is a change of single base pair in the gene for beta globin\nchain that result s in the change of amino acid residue glutamate to valine.\nIt results in to a disease d condition called as sickle cell  anemia . Effect of\npoint mutations that inserts or deletes a base in structural gene can be\nbetter understood by following simple example .\nConsider a statement that is made up of the following words each\nhaving three letters like genetic c"
+  },
+  {
+    "chunk_id": "chunk_82",
+    "chunk_index": 82,
+    "page": 19,
+    "text": "ng simple example .\nConsider a statement that is made up of the following words each\nhaving three letters like genetic co de.\nRAM  HAS  RED  CAP\nIf we insert a letter B in between HAS and RED and rearrange the\nstatement, it would read as follows:\nRAM  HAS  BRE  DCA  P\nSimilarly, if we now insert two letters at the same place, say BI'. Now it\nwould read,\nRAM  HAS  BIR  EDC  AP\nNow we insert thr ee letters together , say BIG, the statement would r\nead\nRAM  HAS  BIG   RED  CAP\nThe same exercise can be repeated, by deleting the letters R, E and D,\none by one and rearranging the statement to make a triplet word.\nRAM  HAS  EDC  AP\nRAM  HAS  DCA  P\n"
+  },
+  {
+    "chunk_id": "chunk_83",
+    "chunk_index": 83,
+    "page": 19,
+    "text": "letters R, E and D,\none by one and rearranging the statement to make a triplet word.\nRAM  HAS  EDC  AP\nRAM  HAS  DCA  P\nRAM  HAS  CAP\nThe conclusion from the above exercise is very o bvious. Insertion or\ndeletion of one or two bases changes the reading frame from the point of\ninsertion or deletion. However , such mutations ar e referr ed to as\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_84",
+    "chunk_index": 84,
+    "page": 20,
+    "text": "98BIOLOGY\nframeshift insertion or deletion mutations . Insertion or deletion of\nthree or its multiple bases insert or delete in one or multiple codon hence\none or multiple amino acids, and reading frame remains unaltered from\nthat point onwards.\n5.6.2 tRNA– the Adapter Molecule\nFrom  the very beginning of the proposition of code, it was clear to Francis\nCrick that there has to be a mechanism to read the code and also to link it\nto the amino acids, because amino acids have no structural specialities  to\nread the code uniquely.  He postulated the presence of an adapter molecule\nthat would on one hand read the code and on other hand would bind\nt"
+  },
+  {
+    "chunk_id": "chunk_85",
+    "chunk_index": 85,
+    "page": 20,
+    "text": ".  He postulated the presence of an adapter molecule\nthat would on one hand read the code and on other hand would bind\nto specific amino acids.  The tRNA , then called sRNA (soluble RNA) ,\nwas known befor e the genetic code was postulated. H owever , its r ole\nas an adapter molecule was assigned much later .\ntRNA has an\nanticodon loop\nthat has bases\ncomplementary to\nthe code, and it also\nhas an amino acid\nacceptor  end  to\nwhich it binds to\namino acids.\ntRNAs are specific\nfor each amino acid\n(Figure 5.12).  For\ninitiation, there is\nanother specific tRNA that is referred to as initiator tRNA . There are no\ntRNAs for stop codons.  In figure 5.1"
+  },
+  {
+    "chunk_id": "chunk_86",
+    "chunk_index": 86,
+    "page": 20,
+    "text": "here is\nanother specific tRNA that is referred to as initiator tRNA . There are no\ntRNAs for stop codons.  In figure 5.12, the secondary structure of tRNA\nhas been depicted that looks like a clover -leaf. In actual structur e, the\ntRNA is a compact molecule which looks like inverted L.\n5.7  T RANSLA TION\nTranslation  refers to the process of polymerisation of amino acids to\nform a polypeptide (Figure 5.13). The order and sequence of amino acids\nare defined by the sequence of bases in the mRNA. The amino acids are\njoined by a bond which is known as a peptide bond.  Formation of a\npeptide bond requires energy.  Therefore, in the first phase its"
+  },
+  {
+    "chunk_id": "chunk_87",
+    "chunk_index": 87,
+    "page": 20,
+    "text": " bond which is known as a peptide bond.  Formation of a\npeptide bond requires energy.  Therefore, in the first phase itself amino\nacids are activated in the presence of ATP and linked to their cognate\ntRNA–a process commonly called as charging of tRNA  or\naminoacylation of tRNA  to be more specific.  If two such charged tRNAs\nare brought close enough, the formation of peptide bond between themFigure 5.12 tRNA - the adapter molecule\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_88",
+    "chunk_index": 88,
+    "page": 21,
+    "text": "99MOLECULAR BASIS OF INHERITANCE\nwould be favoured energetically. The\npresence of a catalyst would enhance\nthe rate of peptide bond formation.\nThe cellular factory responsible for\nsynthesising proteins is the ribosome.\nThe ribosome consists of structural\nRNAs and about 80 different proteins.\nIn its inactive state, it exists as two\nsubunits; a large subunit and a small\nsubunit. When the small subunit\nencounters an mRNA, the process of\ntranslation of the mRNA to protein\nbegins.  There are two sites in the large\nsubunit, for subsequent amino acids\nto bind to and thus, be close enough\nto each other for the formation of a\npeptide bond. The ribosom"
+  },
+  {
+    "chunk_id": "chunk_89",
+    "chunk_index": 89,
+    "page": 21,
+    "text": "bsequent amino acids\nto bind to and thus, be close enough\nto each other for the formation of a\npeptide bond. The ribosome also acts as a catalyst (23S rRNA in bacteria\nis the enzym e- ribozyme) for the formation of peptide bond.\nA transla tional unit in mRNA is the sequence of RNA that is flanked\nby the start codon (AUG) and the stop codon and codes for a polypeptide.\nAn mRNA also has some additional sequences that are not translated\nand are referred as untranslated regions  (\nUTR).  The UTRs are present\nat both 5 '-end (before start codon) and at 3 '-end (after stop codon).  They\nare required for efficient translation process.\nFor initiation"
+  },
+  {
+    "chunk_id": "chunk_90",
+    "chunk_index": 90,
+    "page": 21,
+    "text": "ore start codon) and at 3 '-end (after stop codon).  They\nare required for efficient translation process.\nFor initiation, the ribosome binds to the mRNA at the start codon (AUG)\nthat is recogni sed only by the initiator tRNA.  The ribosome proceeds to the\nelongation phase of protein synthesis. During this stage, complexes\ncomposed of an amino acid linked to tRNA, sequentially bind to the\nappropriate codon in mRNA by forming complementary base pairs with\nthe tRNA anticodon.  The ribosome moves from codon to codon along the\nmRNA. Amino acids are added one by one, translated into Polypeptide\nsequences dictated by DNA and represented by mRNA.  At"
+  },
+  {
+    "chunk_id": "chunk_91",
+    "chunk_index": 91,
+    "page": 21,
+    "text": "NA. Amino acids are added one by one, translated into Polypeptide\nsequences dictated by DNA and represented by mRNA.  At the end, a release\nfactor  binds to the stop codon, terminating translation and releasing the\ncomplete polypeptide from the ribosome.\n5.8  R EGULATION  OF GENE EXPRESSION\nRegulation of gene expression refers to a very broad term that may occur\nat various levels. Considering that gene expression results in the formation\nof a polypeptide, it can be regulated at several levels. In eukaryotes, the\nregulation could be exerted at\n(i)transcriptional level (formation of primary transcript),\n(ii)processing level (regulation of splic"
+  },
+  {
+    "chunk_id": "chunk_92",
+    "chunk_index": 92,
+    "page": 21,
+    "text": "ould be exerted at\n(i)transcriptional level (formation of primary transcript),\n(ii)processing level (regulation of splicing),\n(iii)transport of mRNA from nucleus to the cytoplasm,\n(iv)translational level.Figure 5.13 Translation\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_93",
+    "chunk_index": 93,
+    "page": 22,
+    "text": "100BIOLOGY\nThe genes i n a cell are expressed to perform a particular function or a\nset of functions.  For example, if an enzyme called beta-galactosidase is\nsynthesised by E. coli, it is used to catalyse the hydrolysis of a\ndisaccharide, lactose into galactose and glucose; the bacteria use them\nas a source of energy.  Hence, if the bacteria do not have lactose around\nthem to be utilised for energy source, they would no longer require the\nsynthesis of the enzyme beta-galactosidase.  Therefore, in simple terms,\nit is the metabolic, physiological or environmental conditions that regulate\nthe expression of genes.  The development and differentia"
+  },
+  {
+    "chunk_id": "chunk_94",
+    "chunk_index": 94,
+    "page": 22,
+    "text": "bolic, physiological or environmental conditions that regulate\nthe expression of genes.  The development and differentiation of embryo\ninto adult organisms are also a result of the coordinated regulation of\nexpression of several sets of genes.\nIn prokaryotes, control of the rate of transcriptional initiation is the\npredominant site for control of gene expression.  In a transcription unit,\nthe activity of RNA polymerase at a given promoter is in turn regulated\nby interaction with accessory proteins, which affect its ability to recognise\nstart sites.  These regulatory proteins can act both positively (activators)\nand negatively (repressors).  T"
+  },
+  {
+    "chunk_id": "chunk_95",
+    "chunk_index": 95,
+    "page": 22,
+    "text": "o recognise\nstart sites.  These regulatory proteins can act both positively (activators)\nand negatively (repressors).  The accessibility of promoter regions of\nprokaryotic DNA is in many cases regulated by the interaction of proteins\nwith sequences termed operators .  The operator region is adjacent to the\npromoter elements in most operons and in most cases the sequences of\nthe operator bind a repressor protein.  Each operon has its specific\noperator and specific r epressor .  For example, lac operator is present\nonly in the lac operon and it interacts specifically with lac repressor only.\n5.8.1 The Lac\n operon\nThe elucidation of the lac oper"
+  },
+  {
+    "chunk_id": "chunk_96",
+    "chunk_index": 96,
+    "page": 22,
+    "text": " lac operon and it interacts specifically with lac repressor only.\n5.8.1 The Lac\n operon\nThe elucidation of the lac operon was also a result of a close association\nbetween a geneticist, Francois Jacob and a biochemist, Jacque Monod.  They\nwere the first to elucidate a transcriptionally regulated system.  In lac operon\n(here lac refers to lactose), a polycistronic structural gene is regulated by a\ncommon promoter and regulatory genes. Such arrangement is very common\nin bacteria and is referred to as operon .  To name few such examples, lac\noperon, trp operon, ara operon, his operon, val operon, etc.\nThe lac operon consists of one regulatory ge"
+  },
+  {
+    "chunk_id": "chunk_97",
+    "chunk_index": 97,
+    "page": 22,
+    "text": " examples, lac\noperon, trp operon, ara operon, his operon, val operon, etc.\nThe lac operon consists of one regulatory gene (the i gene – here the\nterm i does not refer to inducer , rather it is derived fr om the wor d inhibitor)\nand three structural genes ( z, y, and a).  The i gene codes for the repressor\nof the lac operon. The z  gene codes for beta-galactosidase ( β-gal), which\nis primarily responsible for the hydrolysis of the disaccharide, lactose\ninto its monomeric units, galactose and glucose. The y  gene codes for\npermease, which increases permeability of the cell to β-galactosides. The\na gene encodes a transacetylase.  Hence, all the"
+  },
+  {
+    "chunk_id": "chunk_98",
+    "chunk_index": 98,
+    "page": 22,
+    "text": "rmease, which increases permeability of the cell to β-galactosides. The\na gene encodes a transacetylase.  Hence, all the three gene products in\nlac operon are required for metabolism of lactose.  In most other operons\nas well, the genes present in the operon are needed together to function\nin the same or related metabolic pathway (Figure 5.14).\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_99",
+    "chunk_index": 99,
+    "page": 23,
+    "text": "101MOLECULAR BASIS OF INHERITANCE\nLactose is the substrate for the enzyme beta-galactosidase and it\nregulates switching on and of f of the oper on. Hence, it is te rmed as inducer .\nIn the absence of a preferred carbon source such as glucose, if lactose is\nprovided in the growth medium of the bacteria, the lactose is transported\ninto the cells thr ough the action of per mease (Remember , a very low level\nof expression of lac operon has to be present in the cell all the time,\notherwise lactose cannot enter the cells). The lactose then induces the\noperon in the following manner .\nThe repressor of the operon is synthesised (all-the-time – consti"
+  },
+  {
+    "chunk_id": "chunk_100",
+    "chunk_index": 100,
+    "page": 23,
+    "text": "tose then induces the\noperon in the following manner .\nThe repressor of the operon is synthesised (all-the-time – constitutively)\nfrom the i gene. The repressor protein binds to the operator region of the\noperon and prevents RNA polymerase from transcribing the operon.  In\nthe pr esence of an inducer , such as lactose or allolactose, the r epressor is\ninactivated by interaction with the inducer . This allows RNA polymerase\naccess to the promoter and transcription proceeds (Figure 5.14).\nEssentially, regulation of lac operon can also be visualised as regulation\nof enzyme synthesis by its substrate.\nRemember , glucose or galactose cannot act as"
+  },
+  {
+    "chunk_id": "chunk_101",
+    "chunk_index": 101,
+    "page": 23,
+    "text": "can also be visualised as regulation\nof enzyme synthesis by its substrate.\nRemember , glucose or galactose cannot act as inducers for lac\noperon. Can you think for how long the lac operon would be expressed\nin the presence of lactose?\nRegulation of lac operon by repressor is referred to as negative\nregulation .  Lac  operon is under control of positive regulation as well,\nbut it is beyond the scope of discussion at this level.Figure 5.14 The lac  Operon\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_102",
+    "chunk_index": 102,
+    "page": 24,
+    "text": "102BIOLOGY\n5.9 H UMAN GENOME  PROJECT\nIn the preceding sections you have learnt that it is the sequence of bases in\nDNA that determines the genetic information of a given organism. In other\nwords, genetic make-up of an organism or an individual lies in the DNA\nsequences. If two individuals dif fer, then their DNA sequences should also\nbe different, at least at some places. These assumptions led to the quest of\nfinding out the complete DNA sequence of human genome. With the\nestablishment of genetic engineering techniques where it was possible to\nisolate and clone any piece of DNA and availability of simple and fast\ntechniques for deter mining "
+  },
+  {
+    "chunk_id": "chunk_103",
+    "chunk_index": 103,
+    "page": 24,
+    "text": "e it was possible to\nisolate and clone any piece of DNA and availability of simple and fast\ntechniques for deter mining DNA sequences, a very ambitious pr oject of\nsequencing human genome was launched in the year 1990.\nHuman Genome Project  (HGP) was called a mega pr oject.  Y ou can\nimagine the magnitude and the requirements for the project if we simply\ndefine the aims of the project as follows:\nHuman genome is said to have approximately 3 x 109 bp, and if the\ncost of sequencing required is US $ 3 per bp (the estimated cost in the\nbeginning), the total estimated cost of the project would be approximately\n9 billion US dollars. Further , if th"
+  },
+  {
+    "chunk_id": "chunk_104",
+    "chunk_index": 104,
+    "page": 24,
+    "text": " in the\nbeginning), the total estimated cost of the project would be approximately\n9 billion US dollars. Further , if the obtained sequences wer e to be stor ed\nin typed form in books, and if each page of the book contained 1000\nletters and each book contained 1000 pages, then 3300 such books would\nbe required to store the information of DNA sequence from a single human\ncell. The enormous amount of data expected to be generated also\nnecessitated the use of high speed computational devices for data storage\nand retrieval, and analysis. HGP was closely associated with the rapid\ndevelopment of a new area in biology called Bioinformatics.\nGoals of"
+  },
+  {
+    "chunk_id": "chunk_105",
+    "chunk_index": 105,
+    "page": 24,
+    "text": "analysis. HGP was closely associated with the rapid\ndevelopment of a new area in biology called Bioinformatics.\nGoals of HGP\nSome of the important goals of HGP were as follows:\n(i)Identify all the approximately 20,000-25,000 genes in human DNA ;\n(ii)Determine the sequences of the 3 billion chemical base pairs that\nmake up human DNA;\n(iiii)Store this information in databases;\n(iv)Improve tools for data analysis;\n(v)Transfer r elated technologies to other sectors, such as industries ;\n(vi)Address the ethical, legal, and social issues (ELSI) that may arise\nfrom the project.\nThe Human Genome Project was a 13-year project coordinated by\nthe U.S. D"
+  },
+  {
+    "chunk_id": "chunk_106",
+    "chunk_index": 106,
+    "page": 24,
+    "text": " issues (ELSI) that may arise\nfrom the project.\nThe Human Genome Project was a 13-year project coordinated by\nthe U.S. Department of Energy and the National Institute of Health. During\nthe early years of the HGP , the W ellcome T rust (U.K.) became a major\npartner; additional contributions came from Japan, France, Germany,\nChina and others. The project was completed in 2003. Knowledge about\nthe effects of DNA variations among individuals can lead to revolutionary\nnew ways to diagnose, treat and someday prevent the thousands of\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_107",
+    "chunk_index": 107,
+    "page": 24,
+    "text": "of\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_108",
+    "chunk_index": 108,
+    "page": 25,
+    "text": "103MOLECULAR BASIS OF INHERITANCE\ndisorders that affect human beings. Besides providing clues to\nunderstanding human biology, learning about non-human organisms\nDNA sequences can lead to an understanding of their natural capabilities\nthat can be applied toward solving challenges in health care, agriculture,\nenergy production, environmental remediation. Many non-human model\norganisms, such as bacteria, yeast, Caenorhabditis elegans  (a free living\nnon-pathogenic nematode), Drosophila (the fruit fly), plants (rice and\nArabidopsis ), etc., have also been sequenced.\nMethodologies :  The methods involved two major approaches. One\napproach focused "
+  },
+  {
+    "chunk_id": "chunk_109",
+    "chunk_index": 109,
+    "page": 25,
+    "text": "sis ), etc., have also been sequenced.\nMethodologies :  The methods involved two major approaches. One\napproach focused on identifying all the genes that are expressed as\nRNA (referred to as Expressed Sequence Tags (ESTs). The other took\nthe blind approach of simply sequencing the whole set of genome that\ncontained all the coding and non-coding sequence, and later assigning\ndifferent regions in the sequence with functions (a term referred to as\nSequence Annotation ). For sequencing, the total DNA from a cell is\nisolated and converted into random fragments of relatively smaller sizes\n(recall DNA is a very long polymer , and ther e are technica"
+  },
+  {
+    "chunk_id": "chunk_110",
+    "chunk_index": 110,
+    "page": 25,
+    "text": "converted into random fragments of relatively smaller sizes\n(recall DNA is a very long polymer , and ther e are technical limitations in\nsequencing very long pieces of DNA) and cloned in suitable host using\nspecialised vectors. The cloning resulted into amplification of each piece\nof DNA fragment so that it subsequently could be sequenced with ease.\nThe commonly used hosts were bacteria and yeast, and the vectors were\ncalled as BAC (bacterial artificial chr omosomes), and YAC (yeast artificial\nchromosomes).\nThe fragments were sequenced using automated DNA sequencers that\nworked on the principle of a method developed by Fr ederick Sanger .\n(Re"
+  },
+  {
+    "chunk_id": "chunk_111",
+    "chunk_index": 111,
+    "page": 25,
+    "text": "e sequenced using automated DNA sequencers that\nworked on the principle of a method developed by Fr ederick Sanger .\n(Remember , Sanger is also cr edited for developing method for\ndetermination of amino acid\nsequences in proteins). These\nsequences were then arranged based\non some overlapping regions\npresent in them.  This required\ngeneration of overlapping  fragments\nfor sequencing.  Alignment of these\nsequences was humanly not\npossible. Therefore, specialised\ncomputer based programs were\ndeveloped (Figure 5.15). These\nsequences were subsequently\nannotated and were assigned to each\nchromosome. The sequence of\nchromosome 1 was completed only\ni"
+  },
+  {
+    "chunk_id": "chunk_112",
+    "chunk_index": 112,
+    "page": 25,
+    "text": "nces were subsequently\nannotated and were assigned to each\nchromosome. The sequence of\nchromosome 1 was completed only\nin May 2006 (this was the last of the\n24 human chromosomes – 22\nautosomes and X and Y – to be103\nFigure 5.15 A representative diagram of human\ngenome project\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_113",
+    "chunk_index": 113,
+    "page": 26,
+    "text": "104BIOLOGY\nseque nced).  Another challenging task was assigning the genetic and\nphysical maps on the genome.  This was generated using information on\npolymorphism of restriction endonuclease recognition sites, and some\nrepetitive DNA sequences known as microsatellites (one of the applications\nof polymorphism in repetitive DNA sequences shall be explained in next\nsection of DNA fingerprinting).\n5.9.1 Salient Features of Human Genome\nSome of the salient observations drawn from human genome project are\nas follows:\n(i)The human genome contains 3164.7 million bp.\n(ii)The average gene consists of 3000 bases, but sizes vary greatly, with\nthe largest"
+  },
+  {
+    "chunk_id": "chunk_114",
+    "chunk_index": 114,
+    "page": 26,
+    "text": "genome contains 3164.7 million bp.\n(ii)The average gene consists of 3000 bases, but sizes vary greatly, with\nthe largest known human gene being dystrophin at 2.4 million bases.\n(iii)The total number of genes is estimated at 30,00 0–much lower\nthan previous estimates of 80,000 to 1,40,000 genes.  Almost all\n(99.9 per cent) nucleotide bases are exactly the same in all humans.\n(iv)The functions are unknown for over 50 per cent of the discovered\ngenes.\n(v)Less than 2 per cent of the genome codes for proteins.\n(vi)Repeated sequences make up very large portion of the human genome.\n(vii) Repetitive sequences are stretches of DNA sequences that are\nr"
+  },
+  {
+    "chunk_id": "chunk_115",
+    "chunk_index": 115,
+    "page": 26,
+    "text": "ces make up very large portion of the human genome.\n(vii) Repetitive sequences are stretches of DNA sequences that are\nrepeated many times, sometimes hundred to thousand times.  They\nare thought to have no direct coding functions, but they shed light\non chromosome structure, dynamics and evolution.\n(viii) Chromosome 1 has most genes (2968), and the Y has the fewest (231).\n(ix)Scientists have identified about 1.4 million locations where single-\nbase DNA differences ( SNPs  – single nucleotide polymorphism ,\npronounced as ‘snips’) occur in humans.  This information promises\nto revolutioni se the processes of finding chromosomal locations for\ndi"
+  },
+  {
+    "chunk_id": "chunk_116",
+    "chunk_index": 116,
+    "page": 26,
+    "text": "ps’) occur in humans.  This information promises\nto revolutioni se the processes of finding chromosomal locations for\ndisease-associated sequences and tracing human history.\n5.9.2 Applications and Future Challenges\nDeriving meaningful knowledge from the DNA sequences will define\nresearch through the coming decades leading to our understanding of\nbiological systems. This enormous task will require the expertise and\ncreativity of tens of thousands of scientists from varied disciplines in both\nthe public and private sectors worldwide. One of the greatest impacts of\nhaving the HG sequence may well be enabling a radically new approach\nto biologica"
+  },
+  {
+    "chunk_id": "chunk_117",
+    "chunk_index": 117,
+    "page": 26,
+    "text": "ldwide. One of the greatest impacts of\nhaving the HG sequence may well be enabling a radically new approach\nto biological research.  In the past, researchers studied one or a few genes\nat a time. With whole-genome sequences and new high-throughput\ntechnologies, we can approach questions systematically and on a much\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_118",
+    "chunk_index": 118,
+    "page": 27,
+    "text": "105MOLECULAR BASIS OF INHERITANCE\nbroader scale.  They can study all the genes in a genome, for example, all\nthe transcripts in a particular tissue or or gan or tumor , or how tens of\nthousands of genes and proteins work together in interconnected networks\nto orchestrate the chemistry of life.\n5.10 DNA F INGERPRINTING\nAs stated in the preceding section, 99.9 per cent of base sequence among\nhumans is the same. Assuming human genome as 3 × 109 bp, in how\nmany base sequences would there be differences?   It is these differences\nin sequence of DNA which make every individual unique in their\nphenotypic appearance. If one aims to find out genetic d"
+  },
+  {
+    "chunk_id": "chunk_119",
+    "chunk_index": 119,
+    "page": 27,
+    "text": "\nin sequence of DNA which make every individual unique in their\nphenotypic appearance. If one aims to find out genetic differences\nbetween two individuals or among individuals of a population,\nsequencing the DNA every time would be a daunting and expensive\ntask. Imagine trying to compare two sets \nof 3 × 106 base pairs. DNA\nfingerprinting is a very quick way to compare the DNA sequences of any\ntwo individuals.\nDNA fingerprinting involves identifying differences in some specific\nregions in DNA sequence called as repetitive DNA , because in these\nsequences, a small stretch of DNA is repeated many times. These repetitive\nDNA are separated from b"
+  },
+  {
+    "chunk_id": "chunk_120",
+    "chunk_index": 120,
+    "page": 27,
+    "text": "A , because in these\nsequences, a small stretch of DNA is repeated many times. These repetitive\nDNA are separated from bulk genomic DNA as different peaks during\ndensity gradient centrifugation. The bulk DNA forms a major peak and\nthe other small peaks are referred to as satellite DNA . Depending on\nbase composition (A  : T rich or G:C rich), length of segment, and number\nof repetitive units, the satellite DNA is classified into many categories,\nsuch as micro-satellites, mini-satellites etc. These sequences normally\ndo not code for any proteins, but they form a large portion of human\ngenome.  These sequence show high degree of polymorphism an"
+  },
+  {
+    "chunk_id": "chunk_121",
+    "chunk_index": 121,
+    "page": 27,
+    "text": "ode for any proteins, but they form a large portion of human\ngenome.  These sequence show high degree of polymorphism and form\nthe basis of DNA  fingerprinting.  Since DNA from every tissue (such as\nblood, hair -follicle, skin, bone, saliva, sper m etc.) , from an individual\nshow the same degree of polymorphism, they become very useful\nidentification tool in for ensic applications. Further , as the polymorphisms\nare inheritable from parents to children, DNA fingerprinting is the basis\nof paternity testing, in case of disputes.\nAs polymorphism in DNA sequence is the basis of genetic mapping\nof human genome as well as of DNA  fingerprinting, it"
+  },
+  {
+    "chunk_id": "chunk_122",
+    "chunk_index": 122,
+    "page": 27,
+    "text": "s.\nAs polymorphism in DNA sequence is the basis of genetic mapping\nof human genome as well as of DNA  fingerprinting, it is essential that we\nunderstand what DNA polymorphism means in simple terms.\nPolymorphism  (variation at genetic level) arises due to mutations. (Recall\ndifferent kind of mutations and their effects that you have already\nstudied in Chapter 4, and in the pr eceding section s in this chapter .)\nNew mutations may arise in an individual either in somatic cells or in\nthe germ cells (cells that generate gametes in sexually reproducing\norganisms). If a germ cell mutation does not seriously impair individual’s\nability to have offsp"
+  },
+  {
+    "chunk_id": "chunk_123",
+    "chunk_index": 123,
+    "page": 27,
+    "text": "in sexually reproducing\norganisms). If a germ cell mutation does not seriously impair individual’s\nability to have offspring who can transmit the mutation, it can spread to\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_124",
+    "chunk_index": 124,
+    "page": 28,
+    "text": "106BIOLOGY\nthe other members of population (through sexual reproduction).  Allelic\n(again recall the definition of alleles from Chapter 4) sequence variation\nhas traditionally been described as a DNA polymorphism if more than\none variant (allele) at a locus occurs in human population with a\nfrequency greater than 0.01. In simple terms, if an inheritable mutation\nis observed in a population at high frequency, it is referred to as DNA\npolymorphism . The probability of such variation to be observed in non-\ncoding DNA sequence would be higher as mutations in these sequences\nmay not have any immediate effect/impact in an individual’s\nreproductive "
+  },
+  {
+    "chunk_id": "chunk_125",
+    "chunk_index": 125,
+    "page": 28,
+    "text": "ould be higher as mutations in these sequences\nmay not have any immediate effect/impact in an individual’s\nreproductive ability. These mutations keep on accumulating generation\nafter generation, and form one of the basis of variability/polymorphism.\nThere is a variety of different types of polymorphisms ranging from single\nnucleotide change to very large scale changes. For evolution and\nspeciation, such polymorphisms play very important role, and you will\nstudy these in details at higher classes.\nThe technique of DNA Fingerprinting was initially developed by Alec\nJeffreys.  He used a satellite DNA as probe that shows very high degree\nof polym"
+  },
+  {
+    "chunk_id": "chunk_126",
+    "chunk_index": 126,
+    "page": 28,
+    "text": "rinting was initially developed by Alec\nJeffreys.  He used a satellite DNA as probe that shows very high degree\nof polymorphism.  It was called as Variable Number of Tandem  Repeats\n(VNTR).  The technique, as used earlier , involved Souther n blot\nhybridi sation using radiolab elled VNTR as a probe.  It included\n(i)isolation of DNA,\n(ii)digestion of DNA by restriction endonucleases,\n(iii)separation of DNA fragments by electrophoresis,\n(iv)transferring (blotting) of separated DNA fragments to synthetic\nmembranes, such as nitrocellulose or nylon,\n(v)hybridisation using labe lled VNTR probe, and\n(vi)detection of hybridi sed DNA fragments by auto"
+  },
+  {
+    "chunk_id": "chunk_127",
+    "chunk_index": 127,
+    "page": 28,
+    "text": "ocellulose or nylon,\n(v)hybridisation using labe lled VNTR probe, and\n(vi)detection of hybridi sed DNA fragments by autoradiography. A schematic\nrepresentation of DNA fingerprinting is shown in Figure 5 .16.\nThe VNTR belongs to a class of satellite DNA referred to as mini-satellite.\nA small DNA sequence is arranged tandemly in many copy numbers. The\ncopy number varies from chromosome to chromosome in an individual.\nThe numbers of repeat show very high degree of polymorphism. As a\nresult the size of VNTR varies in size from 0.1 to 20 kb. Consequently,\nafter hybridisation with VNTR probe, the autoradiogram gives many bands\nof differing sizes. T"
+  },
+  {
+    "chunk_id": "chunk_128",
+    "chunk_index": 128,
+    "page": 28,
+    "text": ".1 to 20 kb. Consequently,\nafter hybridisation with VNTR probe, the autoradiogram gives many bands\nof differing sizes. These bands give a characteristic pattern for an individual\nDNA (Figure 5.16). It differs from individual to individual in a population\nexcept in the case of monozygotic (identical) twins. The sensitivity of the\ntechnique has been increased by use of polymerase chain reaction (PCR–\nyou will study about it in Chapter 9). Consequently, DNA from a single\ncell is enough to perform DNA fingerprinting analysis. In addition to\napplication in forensic science, it has much wider application, such as\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_129",
+    "chunk_index": 129,
+    "page": 28,
+    "text": " addition to\napplication in forensic science, it has much wider application, such as\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_130",
+    "chunk_index": 130,
+    "page": 29,
+    "text": "107MOLECULAR BASIS OF INHERITANCE\nFigure 5.16 Schematic representation of DNA fingerprintin g: Few representative chromosomes\nhave been shown to contain different copy number of VNTR.  For the sake of\nunderstanding different colour schemes have been used to trace the origin of each\nband in the gel.  The two alleles (paternal and maternal) of a chromosome also\ncontain different copy numbers of VNTR.  It is clear that the banding pattern of DNA\nfrom crime scene matches with individual B, and not with A.\nin determining population and genetic diversities. Currently, many\ndifferent probes are used to generate DNA fingerprints.\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_131",
+    "chunk_index": 131,
+    "page": 30,
+    "text": "108BIOLOGY\nSUMMARY\nNucleic acids are long polymers of nucleotides.  While DNA stores genetic\ninformation, RNA mostly helps in transfer and expression of information.\nThough DNA and RNA both function as genetic material, but DNA being\nchemically and structurally more stable is a better genetic material.\nHowever , RNA is the first to evolve and DNA was derived fr om RNA.  The\nhallmark of the double stranded helical structure of DNA is the hydrogen\nbonding between the bases from opposite strands. The rule is that\nAdenine pairs with Thymine through two H-bonds, and Guanine with\nCytosine through three H-bonds.  This makes one strand\ncomplementary "
+  },
+  {
+    "chunk_id": "chunk_132",
+    "chunk_index": 132,
+    "page": 30,
+    "text": "with Thymine through two H-bonds, and Guanine with\nCytosine through three H-bonds.  This makes one strand\ncomplementary to the other .  The DNA r eplicates semiconservatively,\nthe process is guided by the complementary H-bonding.  A segment of\nDNA that codes for RNA may in a simplistic term can be referred as\ngene. During transcription also, one of the strands of DNA acts a\ntemplate to direct the synthesis of complementary RNA.  In bacteria,\nthe transcribed mRNA is functional, hence can directly be translated.\nIn eukaryotes, the gene is split.  The coding sequences, exons, are\ninterrupted by non-coding sequences, introns.  Introns are removed"
+  },
+  {
+    "chunk_id": "chunk_133",
+    "chunk_index": 133,
+    "page": 30,
+    "text": " the gene is split.  The coding sequences, exons, are\ninterrupted by non-coding sequences, introns.  Introns are removed\nand exons are joined to produce functional RNA by splicing. The\nmessenger RNA contains the base sequences that are read in a\ncombination of three (to make triplet genetic code) to code for an amino\nacid.  The genetic code is read again on the principle of complementarity\nby tRNA that acts as an adapter molecule.  There are specific tRNAs for\nevery amino acid.  The tRNA binds to specific amino acid at one end\nand pairs through H-bonding with codes on mRNA through its\nanticodons.  The site of translation (protein synthesis) i"
+  },
+  {
+    "chunk_id": "chunk_134",
+    "chunk_index": 134,
+    "page": 30,
+    "text": "nd\nand pairs through H-bonding with codes on mRNA through its\nanticodons.  The site of translation (protein synthesis) is ribosomes,\nwhich bind to mRNA and provide platform for joining of amino acids.\nOne of the rRNA acts as a catalyst for peptide bond formation, which is\nan example of RNA enzyme (ribozyme). Translation is a process that\nhas evolved around RNA, indicating that life began around RNA. Since,\ntranscription and translation are energetically very expensive\nprocesses, these have to be tightly regulated.  Regulation of transcription\nis the primary step for regulation of gene expression. In bacteria, more\nthan one gene is arranged to"
+  },
+  {
+    "chunk_id": "chunk_135",
+    "chunk_index": 135,
+    "page": 30,
+    "text": "n of transcription\nis the primary step for regulation of gene expression. In bacteria, more\nthan one gene is arranged together and regulated in units called as\noperons. Lac  operon is the prototype operon in bacteria, which codes\nfor genes responsible for metabolism of lactose.  The operon is regulated\nby the amount of lactose in the medium where the bacteria are grown.\nTherefore, this regulation can also be viewed as regulation of enzyme\nsynthesis by its substrate.\nHuman genome project was a mega project that aimed to sequence\nevery base in human genome. This project has yielded much  new\ninformation. Many new areas and avenues have opened u"
+  },
+  {
+    "chunk_id": "chunk_136",
+    "chunk_index": 136,
+    "page": 30,
+    "text": "nce\nevery base in human genome. This project has yielded much  new\ninformation. Many new areas and avenues have opened up as a\nconsequence of the project. DNA Fingerprinting is a technique to find\nout variation s in individuals of a population at DNA level. It works on\nthe principle of polymorphism in DNA sequences. It has immense\napplication s in the field of forensic science, genetic biodiversity and\nevolutionary biology.\nReprint 2026-27"
+  },
+  {
+    "chunk_id": "chunk_137",
+    "chunk_index": 137,
+    "page": 31,
+    "text": "109MOLECULAR BASIS OF INHERITANCE\nEXERCISES\n1Group the following as nitrogenous bases and nucleosides:\nAdenine, Cytidine, Thymine, Guanosine, Uracil and Cytosine.\n2.If a double stranded DNA has 20 per cent of cytosine, calculate the per\ncent of adenine in the DNA.\n3.If the sequence of one strand of DNA is written as follows:\n5'-ATGCATGCATGCATGCATGCATGCATGC-3 '\nWrite down the sequence of complementary strand in 5 '→3' direction.\n4.If the sequence of the coding strand in a transcription unit is written\nas follows:\n5'-ATGCATGCATGCATGCATGCATGCATGC-3 '\nWrite down the sequence of mRNA.\n5.Which pr operty of DNA double helix led W atson and Crick to "
+  },
+  {
+    "chunk_id": "chunk_138",
+    "chunk_index": 138,
+    "page": 31,
+    "text": "TGCATGCATGCATGCATGC-3 '\nWrite down the sequence of mRNA.\n5.Which pr operty of DNA double helix led W atson and Crick to hypothesise\nsemi-conservative mode of DNA replication? Explain.\n6.Depending upon the chemical nature of the template (DNA or RNA)\nand the nature of nucleic acids synthesised from it (DNA or RNA), list\nthe types of nucleic acid polymerases.\n7.How did Hershey and Chase differentiate between DNA and protein in\ntheir experiment while proving that DNA is the genetic material?\n8.Differentiate between the followings:\n(a) Repetitive DNA and Satellite DNA\n(b) mRNA and tRNA\n(c) Template strand and Coding strand\n9.List two essential ro"
+  },
+  {
+    "chunk_id": "chunk_139",
+    "chunk_index": 139,
+    "page": 31,
+    "text": "gs:\n(a) Repetitive DNA and Satellite DNA\n(b) mRNA and tRNA\n(c) Template strand and Coding strand\n9.List two essential roles of ribosome during translation.\n10. In the medium where E. coli  was growing, lactose was added, which\ninduced the lac  operon.  Then, why does lac operon shut down some\ntime after addition of lactose in the medium?\n11. Explain (in one or two lines) the function of the followings:\n(a)Promoter\n(b)tRNA\n(c)Exons\n12. Why is the Human Genome project called a mega project?\n13. What is DNA fingerprinting? Mention its application.\n14. Briefly describe the following:\n(a)Transcription\n(b)Polymorphism\n(c)Translation\n(d)Bioinformati"
+  },
+  {
+    "chunk_id": "chunk_140",
+    "chunk_index": 140,
+    "page": 31,
+    "text": "ion its application.\n14. Briefly describe the following:\n(a)Transcription\n(b)Polymorphism\n(c)Translation\n(d)Bioinformatics\nReprint 2026-27"
+  }
+]
